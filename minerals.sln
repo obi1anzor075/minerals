@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minerals", "minerals.csproj", "{8EDE64A6-86F6-48D5-B435-667D73B3C641}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minerals.Tests", "..\minerals.Tests\minerals.Tests.csproj", "{818C981B-DDB6-4EBC-B2B4-60BB67DFC045}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EDE64A6-86F6-48D5-B435-667D73B3C641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EDE64A6-86F6-48D5-B435-667D73B3C641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EDE64A6-86F6-48D5-B435-667D73B3C641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EDE64A6-86F6-48D5-B435-667D73B3C641}.Release|Any CPU.Build.0 = Release|Any CPU
+		{818C981B-DDB6-4EBC-B2B4-60BB67DFC045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{818C981B-DDB6-4EBC-B2B4-60BB67DFC045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{818C981B-DDB6-4EBC-B2B4-60BB67DFC045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{818C981B-DDB6-4EBC-B2B4-60BB67DFC045}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

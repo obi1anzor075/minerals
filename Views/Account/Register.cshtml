@@ -1,0 +1,51 @@
+﻿@using minerals.ViewModels;
+@model RegisterVM
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/css/signIn/singIn.css">
+    <title>Вход</title>
+</head>
+<body>
+    <div class="container">
+        <form asp-action="Register" method="post">
+            <div asp-validation-summary="ModelOnly"></div>
+            <div>
+                <label asp-for="Name"></label>
+                <input asp-for="Name" />
+                <span asp-validation-for="Name"></span>
+            </div>
+            <div>
+                <label asp-for="Email"></label>
+                <input asp-for="Email" />
+                <span asp-validation-for="Email"></span>
+            </div>
+            <div>
+                <label asp-for="Password"></label>
+                <input asp-for="Password" />
+                <span asp-validation-for="Password"></span>
+            </div>
+            <div>
+                <label asp-for="ConfirmPassword"></label>
+                <input asp-for="ConfirmPassword" />
+                <span asp-validation-for="ConfirmPassword"></span>
+            </div>
+            <div>
+                <a asp-action="Login">Есть аккаунт?</a>
+            </div>
+            <div>
+                <button type="submit" class="btn">Зарегистрироваться</button>
+            </div>
+            </form>
+    </div>
+ @section Scripts {
+      @{
+         await Html.RenderPartialAsync("_ValidationScriptsPartial");
+      }
+  }
+</body>
+</html>

@@ -1,0 +1,60 @@
+﻿main {
+  & .container{
+    justify-content: center;
+
+    & form {
+      background: var(--bg-asidebar);
+      border-radius: 10px;
+      padding: 25px;
+      display: flex;
+      flex-direction: column;
+      gap: 5px;
+      width: 35%;
+
+      & .remember {
+        flex-direction: row !important;
+        justify-content: flex-start;
+        align-items: center;
+
+        & input {
+          width: auto;
+        }
+      }
+
+      & div {
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+
+        & input {
+          font-size: 20px;
+          border-radius: 10px;
+          padding: 5px 10px;
+          border: none;
+          background: var(--bg-input);
+          width: 100%;
+        }
+
+        & label {
+          font-size: 20px;
+          color: var(--font-color);
+        }
+
+        & span {
+          font-size: 20px;
+          color: var(--error-mes);
+        }
+
+        & a {
+          color: var(--tr-link);
+          font-size: 18px;
+        }
+
+        & button {
+          border: 1px solid #000;
+          font-weight: 400;
+        }
+      }
+    }
+  }
+}

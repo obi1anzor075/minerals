@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\79875\\Desktop\\minerals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDE64A6-86F6-48D5-B435-667D73B3C641}|minerals.csproj|c:\\users\\79875\\desktop\\minerals\\wwwroot\\css\\style\\cart.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8EDE64A6-86F6-48D5-B435-667D73B3C641}|minerals.csproj|solutionrelative:wwwroot\\css\\style\\cart.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDE64A6-86F6-48D5-B435-667D73B3C641}|minerals.csproj|c:\\users\\79875\\desktop\\minerals\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EDE64A6-86F6-48D5-B435-667D73B3C641}|minerals.csproj|solutionrelative:views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDE64A6-86F6-48D5-B435-667D73B3C641}|minerals.csproj|c:\\users\\79875\\desktop\\minerals\\wwwroot\\css\\style\\about.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8EDE64A6-86F6-48D5-B435-667D73B3C641}|minerals.csproj|solutionrelative:wwwroot\\css\\style\\about.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDE64A6-86F6-48D5-B435-667D73B3C641}|minerals.csproj|c:\\users\\79875\\desktop\\minerals\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EDE64A6-86F6-48D5-B435-667D73B3C641}|minerals.csproj|solutionrelative:views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDE64A6-86F6-48D5-B435-667D73B3C641}|minerals.csproj|c:\\users\\79875\\desktop\\minerals\\wwwroot\\css\\style\\articles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8EDE64A6-86F6-48D5-B435-667D73B3C641}|minerals.csproj|solutionrelative:wwwroot\\css\\style\\articles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDE64A6-86F6-48D5-B435-667D73B3C641}|minerals.csproj|c:\\users\\79875\\desktop\\minerals\\views\\home\\articles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EDE64A6-86F6-48D5-B435-667D73B3C641}|minerals.csproj|solutionrelative:views\\home\\articles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDE64A6-86F6-48D5-B435-667D73B3C641}|minerals.csproj|c:\\users\\79875\\desktop\\minerals\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EDE64A6-86F6-48D5-B435-667D73B3C641}|minerals.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDE64A6-86F6-48D5-B435-667D73B3C641}|minerals.csproj|c:\\users\\79875\\desktop\\minerals\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDE64A6-86F6-48D5-B435-667D73B3C641}|minerals.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDE64A6-86F6-48D5-B435-667D73B3C641}|minerals.csproj|c:\\users\\79875\\desktop\\minerals\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EDE64A6-86F6-48D5-B435-667D73B3C641}|minerals.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDE64A6-86F6-48D5-B435-667D73B3C641}|minerals.csproj|c:\\users\\79875\\desktop\\minerals\\views\\home\\katalog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EDE64A6-86F6-48D5-B435-667D73B3C641}|minerals.csproj|solutionrelative:views\\home\\katalog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDE64A6-86F6-48D5-B435-667D73B3C641}|minerals.csproj|c:\\users\\79875\\desktop\\minerals\\wwwroot\\css\\const\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8EDE64A6-86F6-48D5-B435-667D73B3C641}|minerals.csproj|solutionrelative:wwwroot\\css\\const\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDE64A6-86F6-48D5-B435-667D73B3C641}|minerals.csproj|c:\\users\\79875\\desktop\\minerals\\wwwroot\\css\\const\\colors.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8EDE64A6-86F6-48D5-B435-667D73B3C641}|minerals.csproj|solutionrelative:wwwroot\\css\\const\\colors.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDE64A6-86F6-48D5-B435-667D73B3C641}|minerals.csproj|c:\\users\\79875\\desktop\\minerals\\wwwroot\\css\\style\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8EDE64A6-86F6-48D5-B435-667D73B3C641}|minerals.csproj|solutionrelative:wwwroot\\css\\style\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDE64A6-86F6-48D5-B435-667D73B3C641}|minerals.csproj|c:\\users\\79875\\desktop\\minerals\\wwwroot\\css\\style\\catalog.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8EDE64A6-86F6-48D5-B435-667D73B3C641}|minerals.csproj|solutionrelative:wwwroot\\css\\style\\catalog.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 567,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Articles.cshtml",
+              "DocumentMoniker": "C:\\Users\\79875\\Desktop\\minerals\\Views\\Home\\Articles.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Articles.cshtml",
+              "ToolTip": "C:\\Users\\79875\\Desktop\\minerals\\Views\\Home\\Articles.cshtml",
+              "RelativeToolTip": "Views\\Home\\Articles.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T14:08:59.199Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "articles.css",
+              "DocumentMoniker": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\style\\articles.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\style\\articles.css",
+              "ToolTip": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\style\\articles.css",
+              "RelativeToolTip": "wwwroot\\css\\style\\articles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-02T14:09:05.525Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\79875\\Desktop\\minerals\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\79875\\Desktop\\minerals\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T10:06:30.846Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\style\\index.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\style\\index.css",
+              "ToolTip": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\style\\index.css",
+              "RelativeToolTip": "wwwroot\\css\\style\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-02T13:33:29.267Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Katalog.cshtml",
+              "DocumentMoniker": "C:\\Users\\79875\\Desktop\\minerals\\Views\\Home\\Katalog.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Katalog.cshtml",
+              "ToolTip": "C:\\Users\\79875\\Desktop\\minerals\\Views\\Home\\Katalog.cshtml",
+              "RelativeToolTip": "Views\\Home\\Katalog.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T14:02:28.679Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "catalog.css",
+              "DocumentMoniker": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\style\\catalog.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\style\\catalog.css",
+              "ToolTip": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\style\\catalog.css",
+              "RelativeToolTip": "wwwroot\\css\\style\\catalog.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-02T14:02:32.306Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "colors.css",
+              "DocumentMoniker": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\const\\colors.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\const\\colors.css",
+              "ToolTip": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\const\\colors.css",
+              "RelativeToolTip": "wwwroot\\css\\const\\colors.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-02T14:10:38.883Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\79875\\Desktop\\minerals\\Views\\Home\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\AboutUs.cshtml",
+              "ToolTip": "C:\\Users\\79875\\Desktop\\minerals\\Views\\Home\\AboutUs.cshtml",
+              "RelativeToolTip": "Views\\Home\\AboutUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T14:34:08.737Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "about.css",
+              "DocumentMoniker": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\style\\about.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\style\\about.css",
+              "ToolTip": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\style\\about.css",
+              "RelativeToolTip": "wwwroot\\css\\style\\about.css",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvyEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-02T14:34:42.433Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\79875\\Desktop\\minerals\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\79875\\Desktop\\minerals\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T14:40:51.808Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cart.css",
+              "DocumentMoniker": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\style\\cart.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\style\\cart.css",
+              "ToolTip": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\style\\cart.css",
+              "RelativeToolTip": "wwwroot\\css\\style\\cart.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-02T14:59:08.745Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\79875\\Desktop\\minerals\\Views\\Home\\Cart.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\79875\\Desktop\\minerals\\Views\\Home\\Cart.cshtml",
+              "RelativeToolTip": "Views\\Home\\Cart.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T14:58:56.889Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\79875\\Desktop\\minerals\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\79875\\Desktop\\minerals\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwDQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:38:31.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "main.css",
+              "DocumentMoniker": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\const\\main.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\const\\main.css",
+              "ToolTip": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\const\\main.css",
+              "RelativeToolTip": "wwwroot\\css\\const\\main.css",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-02T14:11:07.228Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

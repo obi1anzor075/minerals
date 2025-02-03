@@ -1,0 +1,97 @@
+﻿main {
+  & .container {
+    flex-direction: column;
+    padding: 25px;
+    gap: 15px;
+  }
+}
+
+.head {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 25px;
+}
+
+.ourShop {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 10px 100px;
+  margin-top: 30px;
+  text-align: justify;
+}
+
+.minerals {
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+
+  & .card {
+    background: var(--bg-card);
+    width: 200px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 10px;
+
+    & img {
+      width: 150px;
+      height: 150px;
+      border-radius: 10px;
+    }
+
+    & article {
+      text-align: center;
+    }
+  }
+}
+
+.forWhat, .recommendations {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 1px 100px;
+  text-align: justify;
+
+  & ul {
+    list-style-type: none;
+  }
+
+  & ul li::before {
+    content: "⚝ ";
+  }
+}
+
+.refund {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 1px 100px;
+  text-align: justify;
+
+  & ol {
+    list-style-type: none;
+    font-weight: 700;
+  }
+
+  & li ul {
+    list-style-type: none;
+    font-weight: 400;
+  }
+}
+
+.line {
+    width: 100%;
+    height: 5px;
+    color: var(--bg-card);
+}
+
+.popular {
+    text-align: left;
+}
+
+
+ 

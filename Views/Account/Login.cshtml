@@ -1,0 +1,44 @@
+﻿@using minerals.ViewModels;
+@model LoginVM
+
+
+<!DOCTYPE html>
+<html lang="en" id="signIn">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/css/signIn/singIn.css">
+    <title>Вход</title>
+</head>
+<body>
+    <div class="container">
+        <form asp-action="Login" method="post">
+            <div asp-validation-summary="ModelOnly"></div>
+            <div>
+                <label asp-for="UserName"></label>
+                <input asp-for="UserName"/>
+                <span asp-validation-for="UserName"></span>
+            </div>
+            <div>
+                <label asp-for="Password"></label>
+                <input asp-for="Password" />
+                <span asp-validation-for="Password"></span>
+            </div>
+            <div class="remember">
+                <input asp-for="RememberMe" /><label>Запомнить меня</label>
+            </div>
+            <div>
+                <a asp-action="Register">Нет аккаунта?</a>
+            </div>
+            <div>
+                <button type="submit" class="btn">Войти</button>
+            </div>
+        </form>
+    </div>
+    @section Scripts {
+        @{
+            await Html.RenderPartialAsync("_ValidationScriptsPartial");
+        }
+    }
+</body>
+</html>

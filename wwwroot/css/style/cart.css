@@ -1,0 +1,66 @@
+﻿.cart {
+    background: #fff;
+    padding: 15px;
+    border-radius: 15px;
+    border: 1px solid black;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    font-size: 25px;
+
+    & table {
+    width: 100%;
+    border-radius: 15px;
+    border: 1px solid black;
+
+    & th, td {
+    padding: 10px;
+    text-align: center;
+    border-bottom: 1px solid #c0c0c0;
+
+    & img {
+        width: 50px;
+        height: 50px;
+        }
+
+        & .remove {
+            background-color: #dc3545;
+            color: white;
+            border-radius: 15px;
+            border: none;
+            padding: 5px 10px;
+            cursor: pointer;
+        
+            & :hover {
+                background-color: #c82333;
+            }
+        }
+    }
+
+    & .total {
+        margin-top: 25px;
+        text-align: right;
+    }
+
+    & .checkout {
+        margin-top: 20px;
+        text-align: right;
+
+        & .checkout-button {
+            background-color: #28a745;
+            color: white;
+            border-radius: 15px;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+        
+            & :hover {
+            background-color: #218838;
+            }  
+        }
+    }
+
+    }
+}
+
+
+
+    

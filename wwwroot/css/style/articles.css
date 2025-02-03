@@ -1,0 +1,51 @@
+﻿.art {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+    & .card {
+        padding: 20px;
+        margin-bottom: 20px;
+        border: 5px solid black;
+        border-radius: 15px;
+        width: 60%;
+        position: relative;
+        transition: transform 0.3s, box-shadow 0.3s;
+        
+        &:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+            }
+
+    & img {
+        max-width: 30%;
+        border-radius: 10px;
+        }
+
+    & .price {
+        margin-top: 10px;
+        }
+
+    & .button {
+        display: inline-block;
+        padding: 10px 15px;
+        border: 1px dotted black;
+        text-decoration: none;
+        border-radius: 5px;
+        margin-top: 15px;
+
+        &:hover {
+            background-color: var( --btn-active);
+                }
+            }
+        }
+    }
+
+@media (max-width: 768px) {
+    .card {
+        width: calc(100% - 20px);
+        margin-bottom: 20px; 
+    }
+}

@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/css/style/main.css" />
+    <link rel="stylesheet" href="~/css/style/cart.css" />
+</head>
+<body>
+    <main>
+        <section class="cart">
+            <h2>Ваша корзина</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Товар</th>
+                        <th></th>
+                        <th>Цена</th>
+                        <th>Количество</th>
+                        <th>Итого</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><img src="~/assets/img/Agat.jpg" alt="Агат"></td>
+                        <td>Агат</td>
+                        <td>1000 руб.</td>
+                        <td><input type="number" value="1" min="1"></td>
+                        <td>1000 руб.</td>
+                        <td><button class="remove">Удалить</button></td>
+                    </tr>
+                    <tr>
+                        <td><img src="~/assets/img/Ametist.jpg" alt="Аметист"></td>
+                        <td>Аметист</td>
+                        <td>1500 руб.</td>
+                        <td><input type="number" value="1" min="1"></td>
+                        <td>1500 руб.</td>
+                        <td><button class="remove">Удалить</button></td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <div class="total">
+                <h3>Итого: 2500 руб.</h3>
+            </div>
+
+            <div class="checkout">
+                <button class="checkout-button">Оформить заказ</button>
+            </div>
+        </section>
+    </main>
+</body>
+</html>

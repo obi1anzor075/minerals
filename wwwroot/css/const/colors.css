@@ -1,0 +1,22 @@
+﻿:root {
+  --interface-bg: #cdbed3;
+  --main-bg:#faeefd;
+  --bg-card:#cda1ff;
+  --font-color: #000000;
+  --bg-asidebar: #fff;
+  --btn-bg: #ffffff;
+  --btn-active: #696969;
+  --bg-input: #e1e1e1;
+  --error-mes: #d11313;
+  --tr-link: #28007e;
+}
+
+.dark:root {
+  --interface-bg: #ffffff;
+  --main-bg:#393760;
+  --bg-card:#b42222;
+  --font-color: #7fef00;
+  --bg-asidebar: #0a0aa5;
+  --btn-bg: #992626;
+  --btn-active: #421111;
+}
