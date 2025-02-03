@@ -1,4 +1,5 @@
 wwwroot\assets\icon\cart.png
+wwwroot\assets\icon\delete.png
 wwwroot\assets\icon\like.png
 wwwroot\assets\icon\search.png
 wwwroot\assets\img\Agat.jpg
@@ -23,6 +24,7 @@ wwwroot\assets\img\slide3.jpg
 wwwroot\assets\img\slide4.jpg
 wwwroot\assets\img\Yashma.jpg
 wwwroot\assets\logo\mineral.png
+wwwroot\css\animation\controllerArticles.css
 wwwroot\css\animation\slideBar.css
 wwwroot\css\const\colors.css
 wwwroot\css\const\main.css
@@ -36,6 +38,7 @@ wwwroot\css\style\favorite.css
 wwwroot\css\style\index.css
 wwwroot\css\style\item.css
 wwwroot\favicon.ico
+wwwroot\js\articles\incrementArticles.js
 wwwroot\js\controllerPost\content-signIn.js
 wwwroot\js\indexJs\slidebar.js
 wwwroot\lib\jquery\dist\jquery.js

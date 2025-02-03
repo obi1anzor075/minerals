@@ -1,66 +1,112 @@
-﻿.cart {
-    background: #fff;
-    padding: 15px;
-    border-radius: 15px;
-    border: 1px solid black;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    font-size: 25px;
+﻿section.container {
+    justify-content: center;
+    align-items: center;
+}
 
-    & table {
-    width: 100%;
-    border-radius: 15px;
-    border: 1px solid black;
+.table {
+  border-radius: 10px; /* Скругляем углы контейнера */
+  overflow: hidden; /* Обрезаем содержимое, чтобы углы были ровными */
+  border: 1px solid black; /* Добавляем границу, если нужно */
+}
 
-    & th, td {
-    padding: 10px;
-    text-align: center;
-    border-bottom: 1px solid #c0c0c0;
+table {
+  border-collapse: collapse;
+  text-align: center;
+}
+
+th, td {
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  padding: 5px 10px;
+}
+
+.img {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 5px;
 
     & img {
-        width: 50px;
-        height: 50px;
-        }
-
-        & .remove {
-            background-color: #dc3545;
-            color: white;
-            border-radius: 15px;
-            border: none;
-            padding: 5px 10px;
-            cursor: pointer;
-        
-            & :hover {
-                background-color: #c82333;
-            }
-        }
-    }
-
-    & .total {
-        margin-top: 25px;
-        text-align: right;
-    }
-
-    & .checkout {
-        margin-top: 20px;
-        text-align: right;
-
-        & .checkout-button {
-            background-color: #28a745;
-            color: white;
-            border-radius: 15px;
-            border: none;
-            padding: 10px 20px;
-            cursor: pointer;
-        
-            & :hover {
-            background-color: #218838;
-            }  
-        }
-    }
-
+        width: 48px;
+        height: 48px;
     }
 }
 
+td {
+  background: none;
+}
 
+.border-right__none {
+    border-right: none;
+}
 
-    
+.border-left__none {
+    border-left: none;
+}
+
+button.remove {
+    border: none;
+    width: 32px;
+    height: 32px;
+    background: none;
+    background-image: url(~/../../../assets/icon/delete.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: pointer;
+
+    &:hover {
+        opacity: 0.8;
+    }
+
+    &:active {
+        opacity: 0.5;
+    }
+}
+
+.pre-table {
+    padding: 10px;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    border-radius: 15px;
+    gap: 15px;
+
+    & div.button {
+        display: flex;
+        gap: 10px;
+        justify-content: space-between;
+        padding: 0px 20px;
+
+        & button {
+            border: none;
+            background: none;
+            border-radius: 15px;
+            transition: 0.2s;
+            padding: 5px 10px;
+            cursor: pointer;
+
+            &:hover {
+                opacity: 0.8;
+            }
+
+            &:active {
+                opacity: 0.5;
+            }
+        }
+
+        .go-shop {
+            background: #41cd89;
+        }
+
+        button.cent {
+            background: #e73131;
+        }
+
+        & div.right-content {
+            display: flex;
+            gap: 10px;
+        }
+    }
+}

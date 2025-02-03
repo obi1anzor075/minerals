@@ -3,43 +3,28 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="~/css/style/main.css">
-    <link rel="stylesheet" href="~/css/style/artcles.css">
+    <link rel="stylesheet" href="~/css/style/articles.css">
 </head>
 <body>
-    <div class="art">
-        <div class="card">
-            <h2>Кварц</h2>
-            <p>Кварц — это один из самых распространенных минералов на Земле. Он встречается в различных формах и цветах.</p>
-			<div class="price">Цена: 2500 руб.</div>
-            <img src="~/assets/img/Quartz.jpg" alt="Кварц">
-            <a href="quartz.html" class="button">Читать далее</a>
-        </div>
-
-        <div class="card">
-            <h2>Аметист</h2>
-            
-            <p>Аметист — это фиолетовая разновидность кварца, ценится за свою красоту и считается камнем защиты.</p>
-            <div class="price">Цена: 6000 руб.</div>
-            <img src="~/assets/img/Ametist.jpg" alt="Аметист">
-            <a href="amethyst.html" class="button">Читать далее</a>
-        </div>
-
-        <div class="card">
-            <h2>Сапфир</h2>
-            <img src="https://example.com/sapphire.jpg" alt="Сапфир">
-            <p>Сапфир — драгоценный камень с глубоким синим цветом, символизирует верность и искренность.</p>
-            <div class="price">Цена: 1500 руб.</div>
-            <a href="sapphire.html" class="button">Читать далее</a>
-        </div>
-
-        <div class="card">
-            <h2>Рубин</h2>
-            <img src="https://example.com/ruby.jpg" alt="Рубин">
-            <p>Рубин — ценный драгоценный камень с ярким красным цветом, ассоциируется с любовью и страстью.</p>
-            <div class="price">Цена: 2000 руб.</div>
-            <a href="ruby.html" class="button">Читать далее</a>
-        </div>
-    </div>
+    <section class="container">
+        <aside class="content">
+            <aside class="bar">
+                <a class="link" id="agat">Агат</a>
+                <a class="link" id="ametist">Аметист</a>
+                <a class="link" id="lasur">Лазурит</a>
+            </aside>
+            <aside class="button">
+                <button class="agat" asp-controller="" asp-action="">Агат</button>
+                <button class="ametist">Аметист</button>
+                <button class="lasur">Лазурит</button>
+            </aside>
+        </aside>
+        <article class="frame">
+            <iframe src="https://ru.wikipedia.org/wiki/Агат" class="agat"></iframe>
+            <iframe src="https://ru.wikipedia.org/wiki/Аметист" class="ametist"></iframe>
+            <iframe src="https://ru.wikipedia.org/wiki/Лазурит" class="lasur"></iframe>
+        </article>
+    </section>
+    <script src="~/js/articles/incrementArticles.js"></script>
 </body>
 </html>

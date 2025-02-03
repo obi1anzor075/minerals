@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ox7sOqN1YZEqFvNrFJ2jYxPTPDzu6CudWtU4LtOPSkc=",
+  "Hash": "nLooBB048szYySXNAf87vDPFDMzGtNUHB7mVkoxHoEE=",
   "Source": "minerals",
   "BasePath": "_content/minerals",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "minerals\\wwwroot",
       "Source": "minerals",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\icon\\cart.png",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\icon\\cart.png",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "assets/icon/cart#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -38,10 +38,31 @@
       "OriginalItemSpec": "wwwroot\\assets\\icon\\cart.png"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\icon\\like.png",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\icon\\delete.png",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "BasePath": "_content/minerals",
+      "RelativePath": "assets/icon/delete#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nv9wc6bwds",
+      "Integrity": "Aw6lczAmPXES5JfX4yDzDhbB2Sn9goaUrjLq1GdUgaE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\icon\\delete.png"
+    },
+    {
+      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\icon\\like.png",
+      "SourceId": "minerals",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "assets/icon/like#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -59,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\icon\\like.png"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\icon\\search.png",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\icon\\search.png",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "assets/icon/search#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -80,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\icon\\search.png"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\Agat.jpg",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Agat.jpg",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "assets/img/Agat#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -101,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\Agat.jpg"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\Ametist.jpg",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Ametist.jpg",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "assets/img/Ametist#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -122,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\Ametist.jpg"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\ametist_slide.jpg",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\ametist_slide.jpg",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "assets/img/ametist_slide#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -143,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\ametist_slide.jpg"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\Aqua.jpg",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Aqua.jpg",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "assets/img/Aqua#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -164,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\Aqua.jpg"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\aquamarine_slide.png",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\aquamarine_slide.png",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "assets/img/aquamarine_slide#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -185,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\aquamarine_slide.png"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\Emerald.jpg",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Emerald.jpg",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "assets/img/Emerald#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -206,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\Emerald.jpg"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\emerald_slide.png",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\emerald_slide.png",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "assets/img/emerald_slide#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -227,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\emerald_slide.png"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\Fluorit.jpg",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Fluorit.jpg",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "assets/img/Fluorit#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -248,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\Fluorit.jpg"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\Lazurit.jpg",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Lazurit.jpg",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "assets/img/Lazurit#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -269,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\Lazurit.jpg"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\Luna.jpg",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Luna.jpg",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "assets/img/Luna#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -290,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\Luna.jpg"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\Obsidian.jpg",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Obsidian.jpg",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "assets/img/Obsidian#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -311,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\Obsidian.jpg"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\Quartz.jpg",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Quartz.jpg",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "assets/img/Quartz#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -332,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\Quartz.jpg"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\rubines_slide.png",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\rubines_slide.png",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "assets/img/rubines_slide#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -353,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\rubines_slide.png"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\Rybin.jpg",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Rybin.jpg",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "assets/img/Rybin#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -374,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\Rybin.jpg"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\sapfhire_slide.png",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\sapfhire_slide.png",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "assets/img/sapfhire_slide#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -395,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\sapfhire_slide.png"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\Sapphire.jpg",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Sapphire.jpg",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "assets/img/Sapphire#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -416,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\Sapphire.jpg"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\slide1.jpg",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\slide1.jpg",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "assets/img/slide1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -437,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\slide1.jpg"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\slide2.jpg",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\slide2.jpg",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "assets/img/slide2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -458,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\slide2.jpg"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\slide3.jpg",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\slide3.jpg",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "assets/img/slide3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -479,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\slide3.jpg"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\slide4.jpg",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\slide4.jpg",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "assets/img/slide4#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -500,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\slide4.jpg"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\Yashma.jpg",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Yashma.jpg",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "assets/img/Yashma#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -521,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\Yashma.jpg"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\logo\\mineral.png",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\logo\\mineral.png",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "assets/logo/mineral#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -542,10 +563,31 @@
       "OriginalItemSpec": "wwwroot\\assets\\logo\\mineral.png"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\animation\\slideBar.css",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\css\\animation\\controllerArticles.css",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "BasePath": "_content/minerals",
+      "RelativePath": "css/animation/controllerArticles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9z90s6hfsr",
+      "Integrity": "hXaLEEnEvPQY/opwm0GnVbeRcLU5195CWg76R/e7vGU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\animation\\controllerArticles.css"
+    },
+    {
+      "Identity": "E:\\Project\\minerals\\wwwroot\\css\\animation\\slideBar.css",
+      "SourceId": "minerals",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "css/animation/slideBar#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -563,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\css\\animation\\slideBar.css"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\const\\colors.css",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\css\\const\\colors.css",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "css/const/colors#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -584,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\css\\const\\colors.css"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\const\\main.css",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\css\\const\\main.css",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "css/const/main#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -598,17 +640,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "9obs1jaa0n",
-      "Integrity": "GReJn/CszXBJsUMblyqQ7XP3uyh4aCXjts2ryFBQWl0=",
+      "Fingerprint": "9cmszptmmn",
+      "Integrity": "GbdfCYNcPNBeDUYe0uOebI1E7wju0aNgdozy2h4sOdc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\const\\main.css"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\signIn\\profile.css",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\css\\signIn\\profile.css",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "css/signIn/profile#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -626,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\css\\signIn\\profile.css"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\signIn\\singIn.css",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\css\\signIn\\singIn.css",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "css/signIn/singIn#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -647,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\css\\signIn\\singIn.css"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\style\\about.css",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\css\\style\\about.css",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "css/style/about#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -668,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style\\about.css"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\style\\articles.css",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\css\\style\\articles.css",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "css/style/articles#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -682,17 +724,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "749ryaa7tz",
-      "Integrity": "GW+H1Almc07U0CP/ywj5ICGIgI7cEWKsb4ektQRq+Qg=",
+      "Fingerprint": "0r00h6ioot",
+      "Integrity": "NFPbkHFmKR/XadGeZ+6mgWFxkYDkPltEM+rabUdq4zE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\style\\articles.css"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\style\\cart.css",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\css\\style\\cart.css",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "css/style/cart#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -703,17 +745,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "jkidumwzja",
-      "Integrity": "varrPlWQWb6ND7HGc19ZX4rB7Cij1/VmAnkPbsgSb0o=",
+      "Fingerprint": "g53la0iofs",
+      "Integrity": "NG3TO9IxJckJIyxloM16li8RErI8E1fOt9sFraolrgI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\style\\cart.css"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\style\\catalog.css",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\css\\style\\catalog.css",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "css/style/catalog#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -731,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style\\catalog.css"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\style\\favorite.css",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\css\\style\\favorite.css",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "css/style/favorite#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -752,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style\\favorite.css"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\style\\index.css",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\css\\style\\index.css",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "css/style/index#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -773,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style\\index.css"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\style\\item.css",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\css\\style\\item.css",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "css/style/item#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -794,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style\\item.css"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\favicon.ico",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\favicon.ico",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -815,10 +857,31 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\js\\controllerPost\\content-signIn.js",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\js\\articles\\incrementArticles.js",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "BasePath": "_content/minerals",
+      "RelativePath": "js/articles/incrementArticles#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ewirr35jgb",
+      "Integrity": "knDyxzsDKWnNKfVBdPo8PpyG21r7OPoPnfjvUbN5Fvo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\articles\\incrementArticles.js"
+    },
+    {
+      "Identity": "E:\\Project\\minerals\\wwwroot\\js\\controllerPost\\content-signIn.js",
+      "SourceId": "minerals",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "js/controllerPost/content-signIn#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -836,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\js\\controllerPost\\content-signIn.js"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\js\\indexJs\\slidebar.js",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\js\\indexJs\\slidebar.js",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "js/indexJs/slidebar#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -857,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\js\\indexJs\\slidebar.js"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -871,17 +934,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "fwhahm2icz",
-      "Integrity": "H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=",
+      "Fingerprint": "7s2n0ol71w",
+      "Integrity": "KSI/3xxCrCexCupdzQJRP1B6Iqg+2NA+X2u38cQdqq8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -892,17 +955,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "dd6z7egasc",
-      "Integrity": "/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=",
+      "Fingerprint": "ehgnz7f14e",
+      "Integrity": "zp0HUArZHsK1JMJwdk7EyaM+eDINjTdOxADt5Ij2JRs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -920,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -941,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -962,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -983,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -997,17 +1060,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "pzqfkb6aqo",
-      "Integrity": "m0l81WDPiG7CcG7CDsTuZzvcGvyFmrQY5DLIxx3aRGw=",
+      "Fingerprint": "6d0lkjaslc",
+      "Integrity": "5qqb5VxQ2t2a6Zx/neW5uppLLvaGn4nn0NdYp6g8Lyg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1018,17 +1081,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b7iojwaux1",
-      "Integrity": "JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA=",
+      "Fingerprint": "l1zq2mitth",
+      "Integrity": "6e0N+WJiVKBeTitK1GKSwPi3rbdPpLtuqaiitZjeD2w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -1046,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1060,17 +1123,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "47otxtyo56",
-      "Integrity": "wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=",
+      "Fingerprint": "03hjc8e09r",
+      "Integrity": "xJbBMLGhYbXlPrrrddrSVmduyF6KEtbxEsYxw7hYZV4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1081,17 +1144,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "4v8eqarkd7",
-      "Integrity": "YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=",
+      "Fingerprint": "48y08845bh",
+      "Integrity": "RFWFWIIPsjB4DucR4jqwxTWw13ZmtI+s6tVR2LJmZXk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\",
+      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
       "BasePath": "_content/minerals",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1112,7 +1175,7 @@
   "Endpoints": [
     {
       "Route": "assets/icon/cart.eas7wf9rgg.png",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\icon\\cart.png",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\icon\\cart.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1133,7 +1196,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:41 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1157,7 +1220,7 @@
     },
     {
       "Route": "assets/icon/cart.png",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\icon\\cart.png",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\icon\\cart.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1178,7 +1241,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:41 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1193,8 +1256,90 @@
       ]
     },
     {
+      "Route": "assets/icon/delete.nv9wc6bwds.png",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\icon\\delete.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3559"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Aw6lczAmPXES5JfX4yDzDhbB2Sn9goaUrjLq1GdUgaE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Feb 2025 16:00:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nv9wc6bwds"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/icon/delete.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Aw6lczAmPXES5JfX4yDzDhbB2Sn9goaUrjLq1GdUgaE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/icon/delete.png",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\icon\\delete.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3559"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Aw6lczAmPXES5JfX4yDzDhbB2Sn9goaUrjLq1GdUgaE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Feb 2025 16:00:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Aw6lczAmPXES5JfX4yDzDhbB2Sn9goaUrjLq1GdUgaE="
+        }
+      ]
+    },
+    {
       "Route": "assets/icon/like.in5m499bou.png",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\icon\\like.png",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\icon\\like.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1215,7 +1360,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:41 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1239,7 +1384,7 @@
     },
     {
       "Route": "assets/icon/like.png",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\icon\\like.png",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\icon\\like.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1260,7 +1405,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:41 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1276,7 +1421,7 @@
     },
     {
       "Route": "assets/icon/search.1uxkqaw2oc.png",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\icon\\search.png",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\icon\\search.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1297,7 +1442,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:41 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1321,7 +1466,7 @@
     },
     {
       "Route": "assets/icon/search.png",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\icon\\search.png",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\icon\\search.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1342,7 +1487,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:41 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1358,7 +1503,7 @@
     },
     {
       "Route": "assets/img/Agat.f7oe2ryn4q.jpg",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\Agat.jpg",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Agat.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1379,7 +1524,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 11:19:09 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1403,7 +1548,7 @@
     },
     {
       "Route": "assets/img/Agat.jpg",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\Agat.jpg",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Agat.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1424,7 +1569,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 11:19:09 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1440,7 +1585,7 @@
     },
     {
       "Route": "assets/img/Ametist.bf7bjbt6od.jpg",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\Ametist.jpg",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Ametist.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1461,7 +1606,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 10:48:16 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1485,7 +1630,7 @@
     },
     {
       "Route": "assets/img/Ametist.jpg",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\Ametist.jpg",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Ametist.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1506,7 +1651,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 10:48:16 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1522,7 +1667,7 @@
     },
     {
       "Route": "assets/img/ametist_slide.jpg",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\ametist_slide.jpg",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\ametist_slide.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1543,7 +1688,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:41 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1559,7 +1704,7 @@
     },
     {
       "Route": "assets/img/ametist_slide.yf233syud8.jpg",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\ametist_slide.jpg",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\ametist_slide.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1580,7 +1725,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:41 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1604,7 +1749,7 @@
     },
     {
       "Route": "assets/img/Aqua.jpg",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\Aqua.jpg",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Aqua.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1625,7 +1770,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 13:47:20 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1641,7 +1786,7 @@
     },
     {
       "Route": "assets/img/Aqua.qbgkgisj1e.jpg",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\Aqua.jpg",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Aqua.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1662,7 +1807,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 13:47:20 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1686,7 +1831,7 @@
     },
     {
       "Route": "assets/img/aquamarine_slide.gkbdi282rp.png",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\aquamarine_slide.png",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\aquamarine_slide.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1707,7 +1852,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:42 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1731,7 +1876,7 @@
     },
     {
       "Route": "assets/img/aquamarine_slide.png",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\aquamarine_slide.png",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\aquamarine_slide.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1752,7 +1897,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:42 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1768,7 +1913,7 @@
     },
     {
       "Route": "assets/img/Emerald.jpg",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\Emerald.jpg",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Emerald.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1789,7 +1934,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 13:44:19 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1805,7 +1950,7 @@
     },
     {
       "Route": "assets/img/Emerald.ylndm15ygo.jpg",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\Emerald.jpg",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Emerald.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1826,7 +1971,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 13:44:19 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1850,7 +1995,7 @@
     },
     {
       "Route": "assets/img/emerald_slide.eqraftfznw.png",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\emerald_slide.png",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\emerald_slide.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1871,7 +2016,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:42 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1895,7 +2040,7 @@
     },
     {
       "Route": "assets/img/emerald_slide.png",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\emerald_slide.png",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\emerald_slide.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1916,7 +2061,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:42 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1932,7 +2077,7 @@
     },
     {
       "Route": "assets/img/Fluorit.jpg",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\Fluorit.jpg",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Fluorit.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1953,7 +2098,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 10:51:41 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1969,7 +2114,7 @@
     },
     {
       "Route": "assets/img/Fluorit.n2wh7y0kas.jpg",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\Fluorit.jpg",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Fluorit.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1990,7 +2135,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 10:51:41 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2014,7 +2159,7 @@
     },
     {
       "Route": "assets/img/Lazurit.jpg",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\Lazurit.jpg",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Lazurit.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2035,7 +2180,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 11:51:50 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2051,7 +2196,7 @@
     },
     {
       "Route": "assets/img/Lazurit.rhgwha5np6.jpg",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\Lazurit.jpg",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Lazurit.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2072,7 +2217,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 11:51:50 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2096,7 +2241,7 @@
     },
     {
       "Route": "assets/img/Luna.as58uf2vof.jpg",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\Luna.jpg",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Luna.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2117,7 +2262,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 11:50:11 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2141,7 +2286,7 @@
     },
     {
       "Route": "assets/img/Luna.jpg",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\Luna.jpg",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Luna.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2162,7 +2307,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 11:50:11 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2178,7 +2323,7 @@
     },
     {
       "Route": "assets/img/Obsidian.9yd787ks6w.jpg",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\Obsidian.jpg",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Obsidian.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2199,7 +2344,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 11:51:01 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2223,7 +2368,7 @@
     },
     {
       "Route": "assets/img/Obsidian.jpg",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\Obsidian.jpg",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Obsidian.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2244,7 +2389,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 11:51:01 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2260,7 +2405,7 @@
     },
     {
       "Route": "assets/img/Quartz.jpg",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\Quartz.jpg",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Quartz.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2281,7 +2426,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 11:19:23 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2297,7 +2442,7 @@
     },
     {
       "Route": "assets/img/Quartz.vdhjaahtfi.jpg",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\Quartz.jpg",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Quartz.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2318,7 +2463,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 11:19:23 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2342,7 +2487,7 @@
     },
     {
       "Route": "assets/img/rubines_slide.fugxjj5hmd.png",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\rubines_slide.png",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\rubines_slide.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2363,7 +2508,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:42 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2387,7 +2532,7 @@
     },
     {
       "Route": "assets/img/rubines_slide.png",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\rubines_slide.png",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\rubines_slide.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2408,7 +2553,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:42 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2424,7 +2569,7 @@
     },
     {
       "Route": "assets/img/Rybin.4b4qyahpbm.jpg",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\Rybin.jpg",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Rybin.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2445,7 +2590,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 13:42:37 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2469,7 +2614,7 @@
     },
     {
       "Route": "assets/img/Rybin.jpg",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\Rybin.jpg",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Rybin.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2490,7 +2635,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 13:42:37 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2506,7 +2651,7 @@
     },
     {
       "Route": "assets/img/sapfhire_slide.jua2m4yalw.png",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\sapfhire_slide.png",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\sapfhire_slide.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2527,7 +2672,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:42 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2551,7 +2696,7 @@
     },
     {
       "Route": "assets/img/sapfhire_slide.png",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\sapfhire_slide.png",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\sapfhire_slide.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2572,7 +2717,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:42 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2588,7 +2733,7 @@
     },
     {
       "Route": "assets/img/Sapphire.jpg",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\Sapphire.jpg",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Sapphire.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2609,7 +2754,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 13:40:40 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2625,7 +2770,7 @@
     },
     {
       "Route": "assets/img/Sapphire.ovke07dh2p.jpg",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\Sapphire.jpg",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Sapphire.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2646,7 +2791,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 13:40:40 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2670,7 +2815,7 @@
     },
     {
       "Route": "assets/img/slide1.jpg",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\slide1.jpg",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\slide1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2691,7 +2836,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 13:25:43 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2707,7 +2852,7 @@
     },
     {
       "Route": "assets/img/slide1.sp94ra5fcq.jpg",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\slide1.jpg",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\slide1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2728,7 +2873,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 13:25:43 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2752,7 +2897,7 @@
     },
     {
       "Route": "assets/img/slide2.1nci0ffs9g.jpg",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\slide2.jpg",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\slide2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2773,7 +2918,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 13:27:12 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2797,7 +2942,7 @@
     },
     {
       "Route": "assets/img/slide2.jpg",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\slide2.jpg",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\slide2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2818,7 +2963,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 13:27:12 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2834,7 +2979,7 @@
     },
     {
       "Route": "assets/img/slide3.jpg",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\slide3.jpg",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\slide3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2855,7 +3000,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 13:31:19 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2871,7 +3016,7 @@
     },
     {
       "Route": "assets/img/slide3.zzdy2xxbki.jpg",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\slide3.jpg",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\slide3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2892,7 +3037,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 13:31:19 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2916,7 +3061,7 @@
     },
     {
       "Route": "assets/img/slide4.3q8v2omgn1.jpg",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\slide4.jpg",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\slide4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2937,7 +3082,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 13:33:03 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2961,7 +3106,7 @@
     },
     {
       "Route": "assets/img/slide4.jpg",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\slide4.jpg",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\slide4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2982,7 +3127,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 13:33:03 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2998,7 +3143,7 @@
     },
     {
       "Route": "assets/img/Yashma.jpg",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\Yashma.jpg",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Yashma.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3019,7 +3164,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 11:18:51 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3035,7 +3180,7 @@
     },
     {
       "Route": "assets/img/Yashma.qgsc3tstwk.jpg",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\img\\Yashma.jpg",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Yashma.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3056,7 +3201,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 11:18:51 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3080,7 +3225,7 @@
     },
     {
       "Route": "assets/logo/mineral.hiwb5z0wql.png",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\logo\\mineral.png",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\logo\\mineral.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3101,7 +3246,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:42 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3125,7 +3270,7 @@
     },
     {
       "Route": "assets/logo/mineral.png",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\assets\\logo\\mineral.png",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\logo\\mineral.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3146,7 +3291,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:42 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3161,8 +3306,90 @@
       ]
     },
     {
+      "Route": "css/animation/controllerArticles.9z90s6hfsr.css",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\animation\\controllerArticles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hXaLEEnEvPQY/opwm0GnVbeRcLU5195CWg76R/e7vGU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Feb 2025 14:47:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9z90s6hfsr"
+        },
+        {
+          "Name": "label",
+          "Value": "css/animation/controllerArticles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hXaLEEnEvPQY/opwm0GnVbeRcLU5195CWg76R/e7vGU="
+        }
+      ]
+    },
+    {
+      "Route": "css/animation/controllerArticles.css",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\animation\\controllerArticles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hXaLEEnEvPQY/opwm0GnVbeRcLU5195CWg76R/e7vGU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Feb 2025 14:47:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hXaLEEnEvPQY/opwm0GnVbeRcLU5195CWg76R/e7vGU="
+        }
+      ]
+    },
+    {
       "Route": "css/animation/slideBar.css",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\animation\\slideBar.css",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\animation\\slideBar.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3183,7 +3410,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 19 Jan 2025 13:54:47 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3199,7 +3426,7 @@
     },
     {
       "Route": "css/animation/slideBar.lt3sl0q8hu.css",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\animation\\slideBar.css",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\animation\\slideBar.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3220,7 +3447,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 19 Jan 2025 13:54:47 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3244,7 +3471,7 @@
     },
     {
       "Route": "css/const/colors.css",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\const\\colors.css",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\const\\colors.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3265,7 +3492,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 19 Jan 2025 13:16:16 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3281,7 +3508,7 @@
     },
     {
       "Route": "css/const/colors.inbn25uogy.css",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\const\\colors.css",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\const\\colors.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3302,7 +3529,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 19 Jan 2025 13:16:16 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3325,8 +3552,8 @@
       ]
     },
     {
-      "Route": "css/const/main.9obs1jaa0n.css",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\const\\main.css",
+      "Route": "css/const/main.9cmszptmmn.css",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\const\\main.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3335,7 +3562,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3647"
+          "Value": "3915"
         },
         {
           "Name": "Content-Type",
@@ -3343,11 +3570,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GReJn/CszXBJsUMblyqQ7XP3uyh4aCXjts2ryFBQWl0=\""
+          "Value": "\"GbdfCYNcPNBeDUYe0uOebI1E7wju0aNgdozy2h4sOdc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 11:27:24 GMT"
+          "Value": "Mon, 03 Feb 2025 13:59:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3357,7 +3584,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9obs1jaa0n"
+          "Value": "9cmszptmmn"
         },
         {
           "Name": "label",
@@ -3365,13 +3592,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-GReJn/CszXBJsUMblyqQ7XP3uyh4aCXjts2ryFBQWl0="
+          "Value": "sha256-GbdfCYNcPNBeDUYe0uOebI1E7wju0aNgdozy2h4sOdc="
         }
       ]
     },
     {
       "Route": "css/const/main.css",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\const\\main.css",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\const\\main.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3380,7 +3607,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3647"
+          "Value": "3915"
         },
         {
           "Name": "Content-Type",
@@ -3388,11 +3615,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GReJn/CszXBJsUMblyqQ7XP3uyh4aCXjts2ryFBQWl0=\""
+          "Value": "\"GbdfCYNcPNBeDUYe0uOebI1E7wju0aNgdozy2h4sOdc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 11:27:24 GMT"
+          "Value": "Mon, 03 Feb 2025 13:59:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3402,13 +3629,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GReJn/CszXBJsUMblyqQ7XP3uyh4aCXjts2ryFBQWl0="
+          "Value": "sha256-GbdfCYNcPNBeDUYe0uOebI1E7wju0aNgdozy2h4sOdc="
         }
       ]
     },
     {
       "Route": "css/signIn/profile.css",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\signIn\\profile.css",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\signIn\\profile.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3429,7 +3656,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:42 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3445,7 +3672,7 @@
     },
     {
       "Route": "css/signIn/profile.oh4kpkrslh.css",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\signIn\\profile.css",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\signIn\\profile.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3466,7 +3693,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:42 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3490,7 +3717,7 @@
     },
     {
       "Route": "css/signIn/singIn.css",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\signIn\\singIn.css",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\signIn\\singIn.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3511,7 +3738,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:42 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3527,7 +3754,7 @@
     },
     {
       "Route": "css/signIn/singIn.s0hab6yq9q.css",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\signIn\\singIn.css",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\signIn\\singIn.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3548,7 +3775,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:42 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3572,7 +3799,7 @@
     },
     {
       "Route": "css/style/about.css",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\style\\about.css",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\style\\about.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3593,7 +3820,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 15:05:06 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3609,7 +3836,7 @@
     },
     {
       "Route": "css/style/about.x4im09zh0x.css",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\style\\about.css",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\style\\about.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3630,7 +3857,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 15:05:06 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3653,8 +3880,8 @@
       ]
     },
     {
-      "Route": "css/style/articles.749ryaa7tz.css",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\style\\articles.css",
+      "Route": "css/style/articles.0r00h6ioot.css",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\style\\articles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3663,7 +3890,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1086"
+          "Value": "1816"
         },
         {
           "Name": "Content-Type",
@@ -3671,11 +3898,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GW+H1Almc07U0CP/ywj5ICGIgI7cEWKsb4ektQRq+Qg=\""
+          "Value": "\"NFPbkHFmKR/XadGeZ+6mgWFxkYDkPltEM+rabUdq4zE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 14:30:21 GMT"
+          "Value": "Mon, 03 Feb 2025 14:24:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3685,7 +3912,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "749ryaa7tz"
+          "Value": "0r00h6ioot"
         },
         {
           "Name": "label",
@@ -3693,13 +3920,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-GW+H1Almc07U0CP/ywj5ICGIgI7cEWKsb4ektQRq+Qg="
+          "Value": "sha256-NFPbkHFmKR/XadGeZ+6mgWFxkYDkPltEM+rabUdq4zE="
         }
       ]
     },
     {
       "Route": "css/style/articles.css",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\style\\articles.css",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\style\\articles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3708,7 +3935,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1086"
+          "Value": "1816"
         },
         {
           "Name": "Content-Type",
@@ -3716,11 +3943,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GW+H1Almc07U0CP/ywj5ICGIgI7cEWKsb4ektQRq+Qg=\""
+          "Value": "\"NFPbkHFmKR/XadGeZ+6mgWFxkYDkPltEM+rabUdq4zE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 14:30:21 GMT"
+          "Value": "Mon, 03 Feb 2025 14:24:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3730,13 +3957,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GW+H1Almc07U0CP/ywj5ICGIgI7cEWKsb4ektQRq+Qg="
+          "Value": "sha256-NFPbkHFmKR/XadGeZ+6mgWFxkYDkPltEM+rabUdq4zE="
         }
       ]
     },
     {
       "Route": "css/style/cart.css",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\style\\cart.css",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\style\\cart.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3745,7 +3972,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1276"
+          "Value": "1741"
         },
         {
           "Name": "Content-Type",
@@ -3753,11 +3980,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"varrPlWQWb6ND7HGc19ZX4rB7Cij1/VmAnkPbsgSb0o=\""
+          "Value": "\"NG3TO9IxJckJIyxloM16li8RErI8E1fOt9sFraolrgI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 15:27:53 GMT"
+          "Value": "Mon, 03 Feb 2025 16:16:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3767,13 +3994,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-varrPlWQWb6ND7HGc19ZX4rB7Cij1/VmAnkPbsgSb0o="
+          "Value": "sha256-NG3TO9IxJckJIyxloM16li8RErI8E1fOt9sFraolrgI="
         }
       ]
     },
     {
-      "Route": "css/style/cart.jkidumwzja.css",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\style\\cart.css",
+      "Route": "css/style/cart.g53la0iofs.css",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\style\\cart.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3782,7 +4009,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1276"
+          "Value": "1741"
         },
         {
           "Name": "Content-Type",
@@ -3790,11 +4017,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"varrPlWQWb6ND7HGc19ZX4rB7Cij1/VmAnkPbsgSb0o=\""
+          "Value": "\"NG3TO9IxJckJIyxloM16li8RErI8E1fOt9sFraolrgI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 15:27:53 GMT"
+          "Value": "Mon, 03 Feb 2025 16:16:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3804,7 +4031,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "jkidumwzja"
+          "Value": "g53la0iofs"
         },
         {
           "Name": "label",
@@ -3812,13 +4039,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-varrPlWQWb6ND7HGc19ZX4rB7Cij1/VmAnkPbsgSb0o="
+          "Value": "sha256-NG3TO9IxJckJIyxloM16li8RErI8E1fOt9sFraolrgI="
         }
       ]
     },
     {
       "Route": "css/style/catalog.css",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\style\\catalog.css",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\style\\catalog.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3839,7 +4066,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 14:03:01 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3855,7 +4082,7 @@
     },
     {
       "Route": "css/style/catalog.jjjhbu04qs.css",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\style\\catalog.css",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\style\\catalog.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3876,7 +4103,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 14:03:01 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3900,7 +4127,7 @@
     },
     {
       "Route": "css/style/favorite.css",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\style\\favorite.css",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\style\\favorite.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3921,7 +4148,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 16:16:26 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3937,7 +4164,7 @@
     },
     {
       "Route": "css/style/favorite.o6qmz1xomo.css",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\style\\favorite.css",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\style\\favorite.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3958,7 +4185,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 16:16:26 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3982,7 +4209,7 @@
     },
     {
       "Route": "css/style/index.css",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\style\\index.css",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\style\\index.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4003,7 +4230,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 13:57:20 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4019,7 +4246,7 @@
     },
     {
       "Route": "css/style/index.i8z32rtolr.css",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\style\\index.css",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\style\\index.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4040,7 +4267,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 13:57:20 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4064,7 +4291,7 @@
     },
     {
       "Route": "css/style/item.css",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\style\\item.css",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\style\\item.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4085,7 +4312,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 16:16:26 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4101,7 +4328,7 @@
     },
     {
       "Route": "css/style/item.o04mp02qk4.css",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\css\\style\\item.css",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\style\\item.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4122,7 +4349,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 16:16:26 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4146,7 +4373,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\favicon.ico",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4167,7 +4394,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:41 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4191,7 +4418,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\favicon.ico",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4212,7 +4439,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:41 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4227,8 +4454,90 @@
       ]
     },
     {
+      "Route": "js/articles/incrementArticles.ewirr35jgb.js",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\js\\articles\\incrementArticles.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1699"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"knDyxzsDKWnNKfVBdPo8PpyG21r7OPoPnfjvUbN5Fvo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Feb 2025 14:53:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ewirr35jgb"
+        },
+        {
+          "Name": "label",
+          "Value": "js/articles/incrementArticles.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-knDyxzsDKWnNKfVBdPo8PpyG21r7OPoPnfjvUbN5Fvo="
+        }
+      ]
+    },
+    {
+      "Route": "js/articles/incrementArticles.js",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\js\\articles\\incrementArticles.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1699"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"knDyxzsDKWnNKfVBdPo8PpyG21r7OPoPnfjvUbN5Fvo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Feb 2025 14:53:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-knDyxzsDKWnNKfVBdPo8PpyG21r7OPoPnfjvUbN5Fvo="
+        }
+      ]
+    },
+    {
       "Route": "js/controllerPost/content-signIn.js",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\js\\controllerPost\\content-signIn.js",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\js\\controllerPost\\content-signIn.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4249,7 +4558,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:42 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4265,7 +4574,7 @@
     },
     {
       "Route": "js/controllerPost/content-signIn.swmk1r6pcn.js",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\js\\controllerPost\\content-signIn.js",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\js\\controllerPost\\content-signIn.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4286,7 +4595,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:42 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4310,7 +4619,7 @@
     },
     {
       "Route": "js/indexJs/slidebar.3j5utvvfe2.js",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\js\\indexJs\\slidebar.js",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\js\\indexJs\\slidebar.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4331,7 +4640,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:42 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4355,7 +4664,7 @@
     },
     {
       "Route": "js/indexJs/slidebar.js",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\js\\indexJs\\slidebar.js",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\js\\indexJs\\slidebar.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4376,7 +4685,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:42 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4391,8 +4700,8 @@
       ]
     },
     {
-      "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Route": "lib/jquery/dist/jquery.7s2n0ol71w.js",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4401,7 +4710,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "288580"
+          "Value": "299461"
         },
         {
           "Name": "Content-Type",
@@ -4409,11 +4718,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=\""
+          "Value": "\"KSI/3xxCrCexCupdzQJRP1B6Iqg+2NA+X2u38cQdqq8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:42 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4423,7 +4732,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "fwhahm2icz"
+          "Value": "7s2n0ol71w"
         },
         {
           "Name": "label",
@@ -4431,13 +4740,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+          "Value": "sha256-KSI/3xxCrCexCupdzQJRP1B6Iqg+2NA+X2u38cQdqq8="
         }
       ]
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4446,7 +4755,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "288580"
+          "Value": "299461"
         },
         {
           "Name": "Content-Type",
@@ -4454,11 +4763,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=\""
+          "Value": "\"KSI/3xxCrCexCupdzQJRP1B6Iqg+2NA+X2u38cQdqq8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:42 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4468,13 +4777,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+          "Value": "sha256-KSI/3xxCrCexCupdzQJRP1B6Iqg+2NA+X2u38cQdqq8="
         }
       ]
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4495,7 +4804,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:42 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4518,8 +4827,8 @@
       ]
     },
     {
-      "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Route": "lib/jquery/dist/jquery.min.ehgnz7f14e.js",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4528,7 +4837,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "89501"
+          "Value": "89503"
         },
         {
           "Name": "Content-Type",
@@ -4536,11 +4845,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=\""
+          "Value": "\"zp0HUArZHsK1JMJwdk7EyaM+eDINjTdOxADt5Ij2JRs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:42 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4550,7 +4859,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dd6z7egasc"
+          "Value": "ehgnz7f14e"
         },
         {
           "Name": "label",
@@ -4558,13 +4867,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+          "Value": "sha256-zp0HUArZHsK1JMJwdk7EyaM+eDINjTdOxADt5Ij2JRs="
         }
       ]
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4573,7 +4882,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "89501"
+          "Value": "89503"
         },
         {
           "Name": "Content-Type",
@@ -4581,11 +4890,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=\""
+          "Value": "\"zp0HUArZHsK1JMJwdk7EyaM+eDINjTdOxADt5Ij2JRs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:42 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4595,13 +4904,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+          "Value": "sha256-zp0HUArZHsK1JMJwdk7EyaM+eDINjTdOxADt5Ij2JRs="
         }
       ]
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4622,7 +4931,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:42 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4638,7 +4947,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4659,7 +4968,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:42 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4683,7 +4992,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4704,7 +5013,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:42 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4720,7 +5029,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4741,7 +5050,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:42 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4765,7 +5074,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4786,7 +5095,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:42 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4802,7 +5111,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4823,7 +5132,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:42 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4847,7 +5156,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4868,7 +5177,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:42 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4883,8 +5192,8 @@
       ]
     },
     {
-      "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Route": "lib/jquery-validation/dist/jquery.validate.6d0lkjaslc.js",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4893,7 +5202,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "51171"
+          "Value": "52831"
         },
         {
           "Name": "Content-Type",
@@ -4901,48 +5210,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"m0l81WDPiG7CcG7CDsTuZzvcGvyFmrQY5DLIxx3aRGw=\""
+          "Value": "\"5qqb5VxQ2t2a6Zx/neW5uppLLvaGn4nn0NdYp6g8Lyg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-m0l81WDPiG7CcG7CDsTuZzvcGvyFmrQY5DLIxx3aRGw="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "24601"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:43 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4952,89 +5224,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b7iojwaux1"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery-validation/dist/jquery.validate.min.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "24601"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "51171"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"m0l81WDPiG7CcG7CDsTuZzvcGvyFmrQY5DLIxx3aRGw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "pzqfkb6aqo"
+          "Value": "6d0lkjaslc"
         },
         {
           "Name": "label",
@@ -5042,13 +5232,132 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-m0l81WDPiG7CcG7CDsTuZzvcGvyFmrQY5DLIxx3aRGw="
+          "Value": "sha256-5qqb5VxQ2t2a6Zx/neW5uppLLvaGn4nn0NdYp6g8Lyg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.js",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52831"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5qqb5VxQ2t2a6Zx/neW5uppLLvaGn4nn0NdYp6g8Lyg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5qqb5VxQ2t2a6Zx/neW5uppLLvaGn4nn0NdYp6g8Lyg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6e0N+WJiVKBeTitK1GKSwPi3rbdPpLtuqaiitZjeD2w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6e0N+WJiVKBeTitK1GKSwPi3rbdPpLtuqaiitZjeD2w="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.min.l1zq2mitth.js",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6e0N+WJiVKBeTitK1GKSwPi3rbdPpLtuqaiitZjeD2w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l1zq2mitth"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/jquery.validate.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6e0N+WJiVKBeTitK1GKSwPi3rbdPpLtuqaiitZjeD2w="
         }
       ]
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5069,7 +5378,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:42 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5085,7 +5394,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5106,7 +5415,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:42 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5129,8 +5438,8 @@
       ]
     },
     {
-      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.03hjc8e09r.js",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5139,7 +5448,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19385"
+          "Value": "19820"
         },
         {
           "Name": "Content-Type",
@@ -5147,11 +5456,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=\""
+          "Value": "\"xJbBMLGhYbXlPrrrddrSVmduyF6KEtbxEsYxw7hYZV4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:43 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5161,7 +5470,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "47otxtyo56"
+          "Value": "03hjc8e09r"
         },
         {
           "Name": "label",
@@ -5169,13 +5478,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ="
+          "Value": "sha256-xJbBMLGhYbXlPrrrddrSVmduyF6KEtbxEsYxw7hYZV4="
         }
       ]
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5184,7 +5493,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19385"
+          "Value": "19820"
         },
         {
           "Name": "Content-Type",
@@ -5192,11 +5501,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=\""
+          "Value": "\"xJbBMLGhYbXlPrrrddrSVmduyF6KEtbxEsYxw7hYZV4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:43 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5206,13 +5515,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ="
+          "Value": "sha256-xJbBMLGhYbXlPrrrddrSVmduyF6KEtbxEsYxw7hYZV4="
         }
       ]
     },
     {
-      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.48y08845bh.js",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5221,7 +5530,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5824"
+          "Value": "5831"
         },
         {
           "Name": "Content-Type",
@@ -5229,11 +5538,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=\""
+          "Value": "\"RFWFWIIPsjB4DucR4jqwxTWw13ZmtI+s6tVR2LJmZXk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:43 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5243,7 +5552,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4v8eqarkd7"
+          "Value": "48y08845bh"
         },
         {
           "Name": "label",
@@ -5251,13 +5560,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4="
+          "Value": "sha256-RFWFWIIPsjB4DucR4jqwxTWw13ZmtI+s6tVR2LJmZXk="
         }
       ]
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5266,7 +5575,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5824"
+          "Value": "5831"
         },
         {
           "Name": "Content-Type",
@@ -5274,11 +5583,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=\""
+          "Value": "\"RFWFWIIPsjB4DucR4jqwxTWw13ZmtI+s6tVR2LJmZXk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:43 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5288,13 +5597,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4="
+          "Value": "sha256-RFWFWIIPsjB4DucR4jqwxTWw13ZmtI+s6tVR2LJmZXk="
         }
       ]
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5315,7 +5624,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:43 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5339,7 +5648,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "C:\\Users\\79875\\Desktop\\minerals\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5360,7 +5669,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:16:43 GMT"
+          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
         },
         {
           "Name": "Cache-Control",

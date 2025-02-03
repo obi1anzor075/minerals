@@ -7,48 +7,57 @@
     <link rel="stylesheet" href="~/css/style/cart.css" />
 </head>
 <body>
-    <main>
-        <section class="cart">
-            <h2>Ваша корзина</h2>
-            <table>
-                <thead>
+    <section class="container">
+        <div class="pre-table">
+            <div class="table">
+                <table>
                     <tr>
                         <th>Товар</th>
-                        <th></th>
                         <th>Цена</th>
                         <th>Количество</th>
-                        <th>Итого</th>
-                        <th></th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td><img src="~/assets/img/Agat.jpg" alt="Агат"></td>
-                        <td>Агат</td>
-                        <td>1000 руб.</td>
-                        <td><input type="number" value="1" min="1"></td>
-                        <td>1000 руб.</td>
-                        <td><button class="remove">Удалить</button></td>
+                        <th class="border-right__none">Итого</th>
+                        <th class="border-left__none"></th>
                     </tr>
                     <tr>
-                        <td><img src="~/assets/img/Ametist.jpg" alt="Аметист"></td>
-                        <td>Аметист</td>
+                        <td class="img"><img src="~/assets/img/Agat.jpg" alt="item"><span>Агат</span></td>
                         <td>1500 руб.</td>
-                        <td><input type="number" value="1" min="1"></td>
-                        <td>1500 руб.</td>
-                        <td><button class="remove">Удалить</button></td>
+                        <td>
+                            <input type="number" min="1" value="1">
+                        </td>
+                        <td class="border-right__none">1500 руб.</td>
+                        <td class="border-left__none">
+                            <button class="remove"></button>
+                        </td>
                     </tr>
-                </tbody>
-            </table>
-
-            <div class="total">
-                <h3>Итого: 2500 руб.</h3>
+                    <tr>
+                        <td class="img"><img src="~/assets/img/Ametist.jpg" alt="item"><span>Аметист</span></td>
+                        <td>1500 руб.</td>
+                        <td>
+                            <input type="number" min="1" value="1">
+                        </td>
+                        <td class="border-right__none">1500 руб.</td>
+                        <td class="border-left__none">
+                            <button class="remove"></button>
+                        </td>
+                    </tr>
+                </table>
             </div>
-
-            <div class="checkout">
-                <button class="checkout-button">Оформить заказ</button>
+            <div class="button">
+                <button class="go-shop">
+                    Продолжить покупки
+                </button>
+                <div class="right-content">
+                    <div class="cent">
+                        Итого:
+                        <span id="cent">2500</span>
+                         руб.
+                    </div>
+                    <button class="cent">
+                        Купить
+                    </button>
+                </div>
             </div>
-        </section>
-    </main>
+        </div>
+    </section>
 </body>
 </html>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("minerals")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+708230bf731f11292de1fb255c36fe50739be624")]
 [assembly: System.Reflection.AssemblyProductAttribute("minerals")]
 [assembly: System.Reflection.AssemblyTitleAttribute("minerals")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
