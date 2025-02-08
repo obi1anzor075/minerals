@@ -624,8 +624,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>g53la0iofs</Fingerprint>
-      <Integrity>NG3TO9IxJckJIyxloM16li8RErI8E1fOt9sFraolrgI=</Integrity>
+      <Fingerprint>bfiano49u2</Fingerprint>
+      <Integrity>OS3J0YW0OTGjh7lUwxb2OlZRqd0XmMcQcXdSTLxbCQ8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style\cart.css'))</OriginalItemSpec>

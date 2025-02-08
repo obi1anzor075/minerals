@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "nLooBB048szYySXNAf87vDPFDMzGtNUHB7mVkoxHoEE=",
+  "Hash": "n8UT8+C8n6iZLCV7i7ZZNFbO9S4shXlQGxieLEEVF9w=",
   "Source": "minerals",
   "BasePath": "_content/minerals",
   "Mode": "Default",
@@ -745,8 +745,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "g53la0iofs",
-      "Integrity": "NG3TO9IxJckJIyxloM16li8RErI8E1fOt9sFraolrgI=",
+      "Fingerprint": "bfiano49u2",
+      "Integrity": "OS3J0YW0OTGjh7lUwxb2OlZRqd0XmMcQcXdSTLxbCQ8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\style\\cart.css"
@@ -3962,6 +3962,51 @@
       ]
     },
     {
+      "Route": "css/style/cart.bfiano49u2.css",
+      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\style\\cart.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2131"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OS3J0YW0OTGjh7lUwxb2OlZRqd0XmMcQcXdSTLxbCQ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Feb 2025 16:30:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bfiano49u2"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style/cart.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OS3J0YW0OTGjh7lUwxb2OlZRqd0XmMcQcXdSTLxbCQ8="
+        }
+      ]
+    },
+    {
       "Route": "css/style/cart.css",
       "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\style\\cart.css",
       "Selectors": [],
@@ -3972,7 +4017,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1741"
+          "Value": "2131"
         },
         {
           "Name": "Content-Type",
@@ -3980,11 +4025,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NG3TO9IxJckJIyxloM16li8RErI8E1fOt9sFraolrgI=\""
+          "Value": "\"OS3J0YW0OTGjh7lUwxb2OlZRqd0XmMcQcXdSTLxbCQ8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:16:51 GMT"
+          "Value": "Mon, 03 Feb 2025 16:30:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3994,52 +4039,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NG3TO9IxJckJIyxloM16li8RErI8E1fOt9sFraolrgI="
-        }
-      ]
-    },
-    {
-      "Route": "css/style/cart.g53la0iofs.css",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\style\\cart.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1741"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NG3TO9IxJckJIyxloM16li8RErI8E1fOt9sFraolrgI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:16:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "g53la0iofs"
-        },
-        {
-          "Name": "label",
-          "Value": "css/style/cart.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-NG3TO9IxJckJIyxloM16li8RErI8E1fOt9sFraolrgI="
+          "Value": "sha256-OS3J0YW0OTGjh7lUwxb2OlZRqd0XmMcQcXdSTLxbCQ8="
         }
       ]
     },

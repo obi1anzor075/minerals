@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("minerals")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1982c1908576764b8189d39e77d5784dade3b95a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95dfdce2a89d14b5c93f38348c22f8342f6285ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("minerals")]
 [assembly: System.Reflection.AssemblyTitleAttribute("minerals")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
