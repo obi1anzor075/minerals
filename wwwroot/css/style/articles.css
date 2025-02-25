@@ -90,3 +90,11 @@ article.frame {
 .active {
     display: block !important;
 }
+
+iframe, button {
+    display: none!important;
+}
+
+    iframe.active, button.active {
+        display: block!important;
+    }

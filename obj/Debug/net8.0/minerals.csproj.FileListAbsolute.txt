@@ -643,3 +643,4 @@ E:\Project\minerals\obj\Debug\net8.0\refint\minerals.dll
 E:\Project\minerals\obj\Debug\net8.0\minerals.pdb
 E:\Project\minerals\obj\Debug\net8.0\minerals.genruntimeconfig.cache
 E:\Project\minerals\obj\Debug\net8.0\ref\minerals.dll
+C:\Users\79875\Desktop\minerals\obj\Debug\net8.0\minerals.sourcelink.json
