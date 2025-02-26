@@ -7,20 +7,41 @@
     <link rel="stylesheet" href="~/css/style/favorite.css" />
 </head>
 <body>
-    <main>
-        <div class="item">
-            <div class="picture">
-                <img src="">
-            </div>
-            <div class="notice">
-                <h4></h4>
-
-            </div>
-            <div class="price">
-                
-            </div>
-            
+    <header>
+        <h1>Избранное</h1>
+        <input type="text" placeholder="Название, бренд, артикул, цвет">
+    </header>
+    <div class="filters">
+        <select>
+            <option>По дате добавления ↓</option>
+        </select>
+        <label><input type="checkbox"> Снова в наличии</label>
+    </div>
+    <div class="product-grid">
+        <div class="product">
+            <img src="product1.jpg" alt="Тапочки">
+            <p class="tag">23-24</p>
+            <h3>Тапочки тёплые детские</h3>
+            <p class="price">618 ₽ <span class="old-price">1650 ₽</span></p>
         </div>
-    </main>
+        <div class="product">
+            <img src="product2.jpg" alt="Пинетки">
+            <p class="tag">6-18 мес.</p>
+            <h3>Пинетки меховые</h3>
+            <p class="price">768 ₽ <span class="old-price">2490 ₽</span></p>
+        </div>
+        <div class="product">
+            <img src="product3.jpg" alt="Дутики">
+            <p class="tag">32</p>
+            <h3>Дутики с мехом</h3>
+            <p class="price">469 ₽ <span class="old-price">2206 ₽</span></p>
+        </div>
+        <div class="product">
+            <img src="product4.jpg" alt="Шорты">
+            <p class="tag">M</p>
+            <h3>Шорты широкие</h3>
+            <p class="price">779 ₽ <span class="old-price">2652 ₽</span></p>
+        </div>
+    </div>
 </body>
 </html>
