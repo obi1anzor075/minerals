@@ -1,51 +1,31 @@
-const agatId = document.getElementById('agat');
-const ametistId = document.getElementById('ametist');
-const lasurId = document.getElementById('lasur');
-//1
+document.addEventListener("DOMContentLoaded", function () {
+    const links = document.querySelectorAll(".bar .link");
+    const iframes = document.querySelectorAll(".frame iframe");
+    const buttons = document.querySelectorAll(".button button");
 
-agatActive();
+    // Устанавливаем активный элемент по умолчанию (Агат)
+    const defaultId = "agat";
+    setActiveElement(defaultId);
 
-agatId.addEventListener('click', agatActive);
-ametistId.addEventListener('click', ametistActive);
-lasurId.addEventListener('click', lasurActive);
-//2
+    links.forEach(function (link) {
+        link.addEventListener("click", function () {
+            const id = this.id.trim(); // Получаем ID ссылки (например, "agat")
+            if (id) {
+                setActiveElement(id);
+            }
+        });
+    });
 
-function agatActive() {
-  const ametistElements = document.querySelectorAll('.ametist');
-  const agatElements = document.querySelectorAll('.agat');
-  const lasurElements = document.querySelectorAll('.lasur')
-  //3
+    function setActiveElement(id) {
+        // Убираем active у всех iframe и кнопок
+        document.querySelectorAll(".frame iframe, .button button").forEach(el => el.classList.remove("active"));
 
-  agatElements.forEach(element => element.classList.add('active'));
-  ametistElements.forEach(element => element.classList.remove('active'));
-  lasurElements.forEach(element => element.classList.remove('active'));
-  //4
-}
-
-function ametistActive() {
-  const ametistElements = document.querySelectorAll('.ametist');
-  const agatElements = document.querySelectorAll('.agat');
-  const lasurElements = document.querySelectorAll('.lasur')
-  //3
+        // Находим нужные iframe и кнопку
+        const targetIframe = document.querySelector(`.frame .${id}`);
+        const targetButton = document.querySelector(`.button .${id}`);
 
 
-  agatElements.forEach(element => element.classList.remove('active'));
-  ametistElements.forEach(element => element.classList.add('active'));
-  lasurElements.forEach(element => element.classList.remove('active'));
-  //4
-}
-
-function lasurActive() {
-  const ametistElements = document.querySelectorAll('.ametist');
-  const agatElements = document.querySelectorAll('.agat');
-  const lasurElements = document.querySelectorAll('.lasur')
-  //3
-
-
-  agatElements.forEach(element => element.classList.remove('active'));
-  ametistElements.forEach(element => element.classList.remove('active'));
-  lasurElements.forEach(element => element.classList.add('active'));
-  //4
-}
-
-//5(2)
+        if (targetIframe) targetIframe.classList.add("active");
+        if (targetButton) targetButton.classList.add("active");
+    }
+});

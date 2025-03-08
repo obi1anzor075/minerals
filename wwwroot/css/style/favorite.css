@@ -1,1 +1,115 @@
-﻿
+﻿/* Основная обёртка */
+.favorites-page {
+    display: flex;
+    padding: 20px;
+    gap: 30px;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Заголовок "Избранное" */
+.sidebar h2 {
+    margin-bottom: 20px;
+    font-size: 1.4rem;
+}
+
+/* Блоки с чекбоксами и радиокнопками */
+.filter-item {
+    margin-bottom: 15px;
+}
+
+/* Вместо Grid используем Flex */
+.card-list {
+    display: flex;
+    flex-wrap: wrap; /* чтобы карточки переносились на новую строку */
+    gap: 20px; /* расстояние между карточками */
+    /* При желании можно выровнять карточки:
+     justify-content: center;
+     или flex-start / space-between и т.п. */
+}
+
+/* Каждая карточка */
+.card {
+    background-color: #fff;
+    width: calc(33.33% - 20px);
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    text-align: center;
+    /* Если хотите абсолютно одинаковую высоту, используйте height вместо min-height */
+}
+
+/* Картинка внутри карточки */
+.card-img {
+    width: 170px;
+    height: 170px;
+    object-fit: cover; /* или fill, в зависимости от желаемого результата */
+    border-radius: 15px;
+    margin: 0 auto; /* чтобы картинка была по центру */
+    display: block;
+}
+
+/* Название камня: используйте p или h3 — не важно, лишь бы стили были едины */
+.card h3,
+.card p {
+    margin: 10px 0 5px 0;
+    font-size: 1.1rem;
+}
+
+/* Обёртка для цен */
+.price {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    margin-bottom: 10px;
+}
+
+/* Актуальная (новая) цена */
+.new-price {
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+/* Старая цена (зачёркнутая) */
+.old-price {
+    color: #888;
+    text-decoration: line-through;
+    font-size: 0.9rem;
+}
+
+/* Кнопка "В корзину" */
+.cart-btn {
+    background-color: #ffffff;
+    color: #000000;
+    font-size: 20px;
+    border: solid black 1px;
+    padding: 10px 15px;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: background-color 0.3sease;
+}
+
+.cart-btn:hover {
+    background-color: #696969;
+}
+/* Блок-обертка для выравнивания элемента по правому краю */
+.card-header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    /* Можно добавить отступы, если нужно */
+    margin-bottom: 10px;
+}
+/* Иконка сердечка в правом верхнем углу */
+.heart {
+    width: 24px;
+    height: 24px;
+    border: none;
+    background: url("/assets/icon/heart.png") no-repeat center/cover;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.heart:hover {
+    opacity: 0.7;
+}

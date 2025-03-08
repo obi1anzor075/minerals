@@ -1,5 +1,7 @@
-﻿<!DOCTYPE html>
-<html lang="en">
+﻿@model List<minerals.Models.Item>
+
+<!DOCTYPE html>
+<html lang="ru">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,150 +13,65 @@
         <aside class="filters">
             <h2>Фильтры</h2>
             <div>
-                <h4>Тип</h4>
-                <label><input type="checkbox" name="type" value="quartz">Кварц</label>
-                <label><input type="checkbox" name="type" value="amethyst">Аметист</label>
-                <label><input type="checkbox" name="type" value="jasper">Яшма</label>
-                <label><input type="checkbox" name="type" value="agate">Агат</label>
-                <label><input type="checkbox" name="type" value="fluorite">Флюорит</label>
+                <h4>Цвет</h4>
+                <label><input type="checkbox" name="color" value="red"> Красный</label>
+                <label><input type="checkbox" name="color" value="blue"> Синий</label>
+                <label><input type="checkbox" name="color" value="green"> Зеленый</label>
+                <label><input type="checkbox" name="color" value="purple"> Фиолетовый</label>
+                <label><input type="checkbox" name="color" value="yellow"> Желтый</label>
+                <label><input type="checkbox" name="color" value="white"> Белый</label>
+                <label><input type="checkbox" name="color" value="black"> Черный</label>
             </div>
             <div>
-                <h4>Цвет</h4>
-                <label><input type="checkbox" name="color" value="red">Красный</label>
-                <label><input type="checkbox" name="color" value="blue">Синий</label>
-                <label><input type="checkbox" name="color" value="green">Зеленый</label>
-                <label><input type="checkbox" name="color" value="purple">Фиолетовый</label>
-                <label><input type="checkbox" name="color" value="yellow">Желтый</label>
-                <label><input type="checkbox" name="color" value="white">Белый</label>
-                <label><input type="checkbox" name="color" value="black">Черный</label>
-            </div>
-           <div>
                 <h4>Цена</h4>
-                <label><input type="radio" name="price" value="under1000">До 1000 руб.</label>
-                <label><input type="radio" name="price" value="1000-5000">1000 - 5000 руб.</label>
-                <label><input type="radio" name="price" value="5000-10000">5000 - 10000 руб.</label>
-                <label><input type="radio" name="price" value="over10000">Более 10000 руб.</label>
+                <label><input type="radio" name="price" value="under1000"> До 1000 руб.</label>
+                <label><input type="radio" name="price" value="1000-5000"> 1000 - 5000 руб.</label>
+                <label><input type="radio" name="price" value="5000-10000"> 5000 - 10000 руб.</label>
+                <label><input type="radio" name="price" value="over10000"> Более 10000 руб.</label>
             </div>
+            <button id="apply-filters">Применить</button>
         </aside>
+
         <section class="products">
-             <div class="product-card">
-                <img src="~/assets/img/Quartz.jpg" alt="Кварц">
-                 <h3>Кварц</h3>
-                 <p>Цена: 2500 руб.</p>
-                 <span>
-                    <button>В корзину</button>
-                </span>
-            </div>
-
-            <div class="product-card">
-                <img src="~/assets/img/Ametist.jpg" alt="Аметист">
-                 <h3>Аметист</h3>
-                <p>Цена: 6000 руб.</p>
-                <span>
-                    <button>В корзину</button>
-                </span>
-            </div>
-
-             <div class="product-card">
-                <img src="~/assets/img/Yashma.jpg" alt="Яшма">
-                <h3>Яшма</h3>
-                 <p>Цена: 12000 руб.</p>
-                 <span>
-                    <button>В корзину</button>
-                </span>
-            </div>
-
-           <div class="product-card">
-                 <img src="~/assets/img/Agat.jpg" alt="Агат">
-                <h3>Агат</h3>
-                 <p>Цена: 3000 руб.</p>
-                 <span>
-                    <button>В корзину</button>
-                </span>
-            </div>
-
-            <div class="product-card">
-                 <img src="~/assets/img/Fluorit.jpg" alt="Флюорит">
-                <h3>Флюорит</h3>
-                 <p>Цена: 8000 руб.</p>
-                <span>
-                    <button>В корзину</button>
-                </span>
-             </div>
-
-             <div class="product-card">
-                 <img src="~/assets/img/Luna.jpg" alt="Лунный камень">
-                <h3>Лунный камень</h3>
-                 <p>Цена: 3500 руб.</p>
-                <span>
-                    <button>В корзину</button>
-                </span>
-             </div>
-
-             <div class="product-card">
-                 <img src="~/assets/img/Lazurit.jpg" alt="Лазурит">
-                <h3>Лазурит</h3>
-                 <p>Цена: 4000 руб.</p>
-                <span>
-                    <button>В корзину</button>
-                </span>
-             </div>
-
-             <div class="product-card">
-                 <img src="~/assets/img/Obsidian.jpg" alt="Обсидиан">
-                <h3>Обсидиан</h3>
-                 <p>Цена: 8000 руб.</p>
-                <span>
-                    <button>В корзину</button>
-                </span>
-             </div>
-
-            <div class="product-card">
-                <img src="~/assets/img/Aqua.jpg" alt="Аквамарин">
-                <h3>Аквамарин</h3>
-                <p>Цена: 5000 руб.</p>
-                <span>
-                    <button>В корзину</button>
-                </span>
-            </div>
-
-            <div class="product-card">
-                <img src="~/assets/img/Emerald.jpg" alt="Изумруд">
-                <h3>Изумруд</h3>
-                <p>Цена: 4000 руб.</p>
-                <span>
-                    <button>В корзину</button>
-                </span>
-            </div>
-
-            <div class="product-card">
-                <img src="~/assets/img/Rybin.jpg" alt="Рубин">
-                <h3>Рубин</h3>
-                <p>Цена: 2500 руб.</p>
-                <span>
-                    <button>В корзину</button>
-                </span>
-            </div>
-
-            <div class="product-card">
-                <img src="~/assets/img/Sapphire.jpg" alt="Сапфир">
-                <h3>Сапфир</h3>
-                <p>Цена: 3000 руб.</p>
-                <span>
-                    <button>В корзину</button>
-                </span>
-            </div>
-
-            <div class="product-card">
-                <img src="~/assets/img/Ametist.jpg" alt="Аметист">
-                <h3>Аметист</h3>
-                <p>Цена: 1500 руб.</p>
-                <span>
-                    <button>В корзину</button>
-                </span>
-            </div>
-
-            </section>
+            @foreach (var item in Model)
+            {
+                <div class="product-card" data-color="@item.Color.ToLower()" data-price="@item.Price">
+                    <img src="@item.ImageUrl" alt="@item.Name">
+                    <h3>@item.Name</h3>
+                    <p>Цена: @item.Price руб.</p>
+                    <span><button>В корзину</button></span>
+                </div>
+            }
+        </section>
     </section>
+
+    <script>
+        document.getElementById('apply-filters').addEventListener('click', function () {
+            let selectedColors = Array.from(document.querySelectorAll('input[name="color"]:checked')).map(cb => cb.value);
+            let selectedPrice = document.querySelector('input[name="price"]:checked')?.value;
+
+            document.querySelectorAll('.product-card').forEach(card => {
+                let cardColor = card.dataset.color;
+                let cardPrice = parseFloat(card.dataset.price);
+                let priceMatch = false;
+
+                if (!selectedPrice ||
+                    (selectedPrice === 'under1000' && cardPrice < 1000) ||
+                    (selectedPrice === '1000-5000' && cardPrice >= 1000 && cardPrice <= 5000) ||
+                    (selectedPrice === '5000-10000' && cardPrice > 5000 && cardPrice <= 10000) ||
+                    (selectedPrice === 'over10000' && cardPrice > 10000)) {
+                    priceMatch = true;
+                }
+
+                let colorMatch = selectedColors.length === 0 || selectedColors.includes(cardColor);
+
+                if (colorMatch && priceMatch) {
+                    card.style.display = 'block';
+                } else {
+                    card.style.display = 'none';
+                }
+            });
+        });
+    </script>
 </body>
 </html>

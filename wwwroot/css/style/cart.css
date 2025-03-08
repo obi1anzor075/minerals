@@ -1,42 +1,160 @@
 ﻿section.container {
+    /* Добавим flex, чтобы центрировать содержимое по вертикали и горизонтали */
+    display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
 
-.table {
-  border-radius: 10px; /* Скругляем углы контейнера */
-  overflow: hidden; /* Обрезаем содержимое, чтобы углы были ровными */
-  border: 1px solid black; /* Добавляем границу, если нужно */
+/* Общая обёртка для таблицы/списка товаров */
+.pre-table {
+    padding: 10px;
+    display: flex;
+    border-radius: 15px;
+    gap: 15px;
+    width: fit-content;
+
+    /* Стили для pre-table-wrapper */
+    & > .pre-table-wrapper {
+        display: flex;
+        flex-direction: column;
+        gap: 25px;
+    }
+
+    /* Стили для total-wrapper на том же уровне */
+    & > .total-wrapper {
+        background: white;
+        border-radius: 15px;
+
+        .button {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            justify-content: space-between;
+            padding: 20px;
+
+            button {
+                border: none;
+                background: none;
+                border-radius: 15px;
+                transition: 0.2s;
+                padding: 5px 10px;
+                cursor: pointer;
+
+                &:active {
+                    opacity: 0.5;
+                }
+
+                span {
+                    display: flex;
+                    justify-content: space-between;
+                }
+            }
+
+            .go-shop {
+                background: #41cd89;
+            }
+
+            .cent {
+                background: #a487dd;
+                color: black;
+                padding: 10px 20px;
+                font-size: 15px;
+                border: 1px solid black;
+                &:hover {
+                    scale: 1.1;
+                }
+            }
+
+            .right-content {
+                display: flex;
+                gap: 10px;
+            }
+        }
+    }
 }
 
-table {
-  border-collapse: collapse;
-  text-align: center;
+.item-wrapper {
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    border-radius: 15px;
+    background: white;
+    gap: 50px;
+    width: 100%;
+    height: 100%;
+    .item-image {
+        width: 128px;
+        height: 128px;
+        img {
+            width: 128px;
+            height: 128px;
+            object-fit: fill;
+            border-radius: 15px;
+        }
+    }
+
+    .item-description {
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+        .item-color,
+        .item-hardness,
+        .item-shine {
+            color: grey;
+            font-size: 16px;
+        }
+    }
+
+    .item-quantity {
+        .input-quantity {
+            width: 30px;
+            height: 30px;
+            font-weight: 700;
+            font-size: 16px;
+            text-align: center;
+        }
+    }
+
+    .item-price {
+        text-align: center;
+    }
+
+    .item-delete {
+        height: 100%;
+        display: flex;
+        align-items: flex-end;
+        /* Исправляем класс на delete-button */
+        .delete-button {
+            border-radius: 15px;
+            padding: 7px;
+            border: 1px solid black;
+            cursor: pointer;
+            background-color: white;
+            transition: 0.3s;
+            &:hover {
+                background-color: #e73131;
+                color: #fff;
+                scale: 1.1;
+            }
+        }
+    }
 }
 
-th, td {
-  border-style: solid;
-  border-width: 1px;
-  border-color: black;
-  padding: 5px 10px;
-}
-
+/* Пример стилей для изображений в таблице (если понадобится) */
 .img {
     display: flex;
     justify-content: space-between;
     align-items: center;
     gap: 5px;
-
-    & img {
+    img {
         width: 48px;
         height: 48px;
     }
 }
 
-td {
-  background: none;
-}
-
+/* Утилитарные классы, если используете */
 .border-right__none {
     border-right: none;
 }
@@ -45,6 +163,7 @@ td {
     border-left: none;
 }
 
+/* Кнопка удаления с иконкой, если нужно (у вас есть упоминание remove) */
 button.remove {
     border: none;
     width: 32px;
@@ -55,58 +174,11 @@ button.remove {
     background-repeat: no-repeat;
     background-position: center;
     cursor: pointer;
-
     &:hover {
         opacity: 0.8;
     }
 
     &:active {
         opacity: 0.5;
-    }
-}
-
-.pre-table {
-    padding: 10px;
-    background: white;
-    display: flex;
-    flex-direction: column;
-    border-radius: 15px;
-    gap: 15px;
-
-    & div.button {
-        display: flex;
-        gap: 10px;
-        justify-content: space-between;
-        padding: 0px 20px;
-
-        & button {
-            border: none;
-            background: none;
-            border-radius: 15px;
-            transition: 0.2s;
-            padding: 5px 10px;
-            cursor: pointer;
-
-            &:hover {
-                opacity: 0.8;
-            }
-
-            &:active {
-                opacity: 0.5;
-            }
-        }
-
-        .go-shop {
-            background: #41cd89;
-        }
-
-        button.cent {
-            background: #e73131;
-        }
-
-        & div.right-content {
-            display: flex;
-            gap: 10px;
-        }
     }
 }

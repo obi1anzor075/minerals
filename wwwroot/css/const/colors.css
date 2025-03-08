@@ -1,7 +1,7 @@
 ﻿:root {
-  --interface-bg: #cdbed3;
-  --main-bg:#faeefd;
-  --bg-card:#cda1ff;
+  --interface-bg: #dfd9fb;
+  --main-bg: #fbf0fe;
+  --bg-card: #c6b5e9;
   --font-color: #000000;
   --bg-asidebar: #fff;
   --btn-bg: #ffffff;
@@ -13,8 +13,8 @@
 
 .dark:root {
   --interface-bg: #ffffff;
-  --main-bg:#393760;
-  --bg-card:#b42222;
+  --main-bg: #393760;
+  --bg-card: #b42222;
   --font-color: #7fef00;
   --bg-asidebar: #0a0aa5;
   --btn-bg: #992626;

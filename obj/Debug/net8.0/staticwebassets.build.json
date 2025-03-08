@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "n8UT8+C8n6iZLCV7i7ZZNFbO9S4shXlQGxieLEEVF9w=",
+  "Hash": "4q6Ju4bHWCYgpGr9nnJvYSSXfEI94NxmY6mEewB6NCQ=",
   "Source": "minerals",
   "BasePath": "_content/minerals",
   "Mode": "Default",
@@ -10,5678 +10,1056 @@
     {
       "Name": "minerals\\wwwroot",
       "Source": "minerals",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\icon\\cart.png",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\assets\\icon\\cart.png",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "assets/icon/cart#[.{fingerprint}]?.png",
+      "RelativePath": "assets/icon/cart.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "eas7wf9rgg",
-      "Integrity": "9pZxm/e0k+Qtpg49+dZlZVuog/l6l4c2C9n3ITgiGC8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\icon\\cart.png"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\icon\\delete.png",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\assets\\icon\\delete.png",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "assets/icon/delete#[.{fingerprint}]?.png",
+      "RelativePath": "assets/icon/delete.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "nv9wc6bwds",
-      "Integrity": "Aw6lczAmPXES5JfX4yDzDhbB2Sn9goaUrjLq1GdUgaE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\icon\\delete.png"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\icon\\like.png",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\assets\\icon\\like.png",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "assets/icon/like#[.{fingerprint}]?.png",
+      "RelativePath": "assets/icon/like.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "in5m499bou",
-      "Integrity": "4qE1Z3nCGNCZMYrCDAAmmtU4tWCH6Gsca49riUYaU+w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\icon\\like.png"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\icon\\search.png",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\assets\\icon\\search.png",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "assets/icon/search#[.{fingerprint}]?.png",
+      "RelativePath": "assets/icon/search.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "1uxkqaw2oc",
-      "Integrity": "SSqa2SD7H/s2PhXIk+mweXWiOI8/bDLsWM1WxueioAE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\icon\\search.png"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Agat.jpg",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\assets\\img\\Agat.jpg",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "assets/img/Agat#[.{fingerprint}]?.jpg",
+      "RelativePath": "assets/img/Agat.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "f7oe2ryn4q",
-      "Integrity": "9R9feWflaUuhfkzHugLQzOs3bWsQ0ePWV7qdByt8+jA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\Agat.jpg"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Ametist.jpg",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\assets\\img\\Ametist.jpg",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "assets/img/Ametist#[.{fingerprint}]?.jpg",
+      "RelativePath": "assets/img/Ametist.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "bf7bjbt6od",
-      "Integrity": "qbal5WPoRfbzTsn8Y8KIU4UGYhzq2jOKj3xy/zhCtys=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\Ametist.jpg"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\ametist_slide.jpg",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\assets\\img\\ametist_slide.jpg",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "assets/img/ametist_slide#[.{fingerprint}]?.jpg",
+      "RelativePath": "assets/img/ametist_slide.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "yf233syud8",
-      "Integrity": "4l2+AXOqF2ydJAmSPVQjszPrOwGZ/IpLOyZ5CCK65Dg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\ametist_slide.jpg"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Aqua.jpg",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\assets\\img\\Aqua.jpg",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "assets/img/Aqua#[.{fingerprint}]?.jpg",
+      "RelativePath": "assets/img/Aqua.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "qbgkgisj1e",
-      "Integrity": "WliKcS9gID/l68NprBijfqqOSmj2gDrOUlFxkqGQxP0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\Aqua.jpg"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\aquamarine_slide.png",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\assets\\img\\aquamarine_slide.png",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "assets/img/aquamarine_slide#[.{fingerprint}]?.png",
+      "RelativePath": "assets/img/aquamarine_slide.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "gkbdi282rp",
-      "Integrity": "MOqPB26BUoCIBL5I4oBbKFKB6h/JrVmsBr3WKrTlax8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\aquamarine_slide.png"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Emerald.jpg",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\assets\\img\\Emerald.jpg",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "assets/img/Emerald#[.{fingerprint}]?.jpg",
+      "RelativePath": "assets/img/Emerald.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ylndm15ygo",
-      "Integrity": "Ov3n/FEP94ueVSGLQRgNJ/f8tsjPvoCS7k/r20GPWoM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\Emerald.jpg"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\emerald_slide.png",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\assets\\img\\emerald_slide.png",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "assets/img/emerald_slide#[.{fingerprint}]?.png",
+      "RelativePath": "assets/img/emerald_slide.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "eqraftfznw",
-      "Integrity": "5l04tLB0vCt78bv+uNoxFVe7yiG5Sy6DJ/ZRIGYtH9U=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\emerald_slide.png"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Fluorit.jpg",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\assets\\img\\Fluorit.jpg",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "assets/img/Fluorit#[.{fingerprint}]?.jpg",
+      "RelativePath": "assets/img/Fluorit.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "n2wh7y0kas",
-      "Integrity": "n+uALHAUgPIOApmihjNbpixArnDzTdEVBL9gQ427pVc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\Fluorit.jpg"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Lazurit.jpg",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\assets\\img\\Lazurit.jpg",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "assets/img/Lazurit#[.{fingerprint}]?.jpg",
+      "RelativePath": "assets/img/Lazurit.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "rhgwha5np6",
-      "Integrity": "f0T5f/E48edAy5gOQa2klt+XH0a5ko1nOhg36O1rcOo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\Lazurit.jpg"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Luna.jpg",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\assets\\img\\Luna.jpg",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "assets/img/Luna#[.{fingerprint}]?.jpg",
+      "RelativePath": "assets/img/Luna.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "as58uf2vof",
-      "Integrity": "Simi7XWSCFcaAb8CcV81cXVRuGMbNbYWhQCzkRtk/K0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\Luna.jpg"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Obsidian.jpg",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\assets\\img\\Obsidian.jpg",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "assets/img/Obsidian#[.{fingerprint}]?.jpg",
+      "RelativePath": "assets/img/Obsidian.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "9yd787ks6w",
-      "Integrity": "n/lgT5l9suihm7IhT5c0wEuj3G5+8ZKYvb8Z5SSjV9k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\Obsidian.jpg"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Quartz.jpg",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\assets\\img\\Quartz.jpg",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "assets/img/Quartz#[.{fingerprint}]?.jpg",
+      "RelativePath": "assets/img/Quartz.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "vdhjaahtfi",
-      "Integrity": "PR8j2onsTBP2bAcWZvttCNjUfBIvKAPrPK5Yx6vD61g=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\Quartz.jpg"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\rubines_slide.png",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\assets\\img\\rubines_slide.png",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "assets/img/rubines_slide#[.{fingerprint}]?.png",
+      "RelativePath": "assets/img/rubines_slide.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "fugxjj5hmd",
-      "Integrity": "eX3/s64qZCWWM7pX2JDJqS+WnFTZM7D9cv8/dMvIqKA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\rubines_slide.png"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Rybin.jpg",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\assets\\img\\Rybin.jpg",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "assets/img/Rybin#[.{fingerprint}]?.jpg",
+      "RelativePath": "assets/img/Rybin.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "4b4qyahpbm",
-      "Integrity": "sE303WsQeIvo5CzFlvfOgRFiHFBv8wanOL1rlBtCpbI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\Rybin.jpg"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\sapfhire_slide.png",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\assets\\img\\sapfhire_slide.png",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "assets/img/sapfhire_slide#[.{fingerprint}]?.png",
+      "RelativePath": "assets/img/sapfhire_slide.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "jua2m4yalw",
-      "Integrity": "lVY8+x7A7Iy/sDFYsOnF9PYtDyK+Vjwu83kqNbuxbiw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\sapfhire_slide.png"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Sapphire.jpg",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\assets\\img\\Sapphire.jpg",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "assets/img/Sapphire#[.{fingerprint}]?.jpg",
+      "RelativePath": "assets/img/Sapphire.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ovke07dh2p",
-      "Integrity": "NO2gUD91h0E5oiVyFRva9B3IrKzuAtKe+mDbc7ufJZg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\Sapphire.jpg"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\slide1.jpg",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\assets\\img\\slide1.jpg",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "assets/img/slide1#[.{fingerprint}]?.jpg",
+      "RelativePath": "assets/img/slide1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "sp94ra5fcq",
-      "Integrity": "MH2216P8F5MHH944umQ+atR6PggGKo0TFMxL8Df3PDM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\slide1.jpg"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\slide2.jpg",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\assets\\img\\slide2.jpg",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "assets/img/slide2#[.{fingerprint}]?.jpg",
+      "RelativePath": "assets/img/slide2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "1nci0ffs9g",
-      "Integrity": "fZzmMX9DqRV6PzpeZSwiYFoT+twH1yHImzvXuU+ukzg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\slide2.jpg"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\slide3.jpg",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\assets\\img\\slide3.jpg",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "assets/img/slide3#[.{fingerprint}]?.jpg",
+      "RelativePath": "assets/img/slide3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "zzdy2xxbki",
-      "Integrity": "X7FUfHkwPnQtdBFHQln6wLZ2ss+XgYCTHU5VNdfL3b0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\slide3.jpg"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\slide4.jpg",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\assets\\img\\slide4.jpg",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "assets/img/slide4#[.{fingerprint}]?.jpg",
+      "RelativePath": "assets/img/slide4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "3q8v2omgn1",
-      "Integrity": "FcCsn+Q6Y1e/jdPUII/CGxIIq4XAcFsmd9EadQHVNHk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\slide4.jpg"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Yashma.jpg",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\assets\\img\\Yashma.jpg",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "assets/img/Yashma#[.{fingerprint}]?.jpg",
+      "RelativePath": "assets/img/Yashma.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "qgsc3tstwk",
-      "Integrity": "GpJdyaLwnYZtEh1EDlq5qYx8VVMrf3IoOWlzwx6adv4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\Yashma.jpg"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\assets\\logo\\mineral.png",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\assets\\logo\\mineral.png",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "assets/logo/mineral#[.{fingerprint}]?.png",
+      "RelativePath": "assets/logo/mineral.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "hiwb5z0wql",
-      "Integrity": "p/W8Gbhqf0zMh/+jorwJ1WngXcYP5D9o5zU1/8inJiQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\logo\\mineral.png"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\css\\animation\\controllerArticles.css",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\css\\animation\\controllerArticles.css",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "css/animation/controllerArticles#[.{fingerprint}]?.css",
+      "RelativePath": "css/animation/controllerArticles.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "9z90s6hfsr",
-      "Integrity": "hXaLEEnEvPQY/opwm0GnVbeRcLU5195CWg76R/e7vGU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\animation\\controllerArticles.css"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\css\\animation\\slideBar.css",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\css\\animation\\slideBar.css",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "css/animation/slideBar#[.{fingerprint}]?.css",
+      "RelativePath": "css/animation/slideBar.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "lt3sl0q8hu",
-      "Integrity": "WdfA1laagLBddbeOMRglZyXqdNZQIJ6R8OuvgsN9KbA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\animation\\slideBar.css"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\css\\const\\colors.css",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\css\\const\\colors.css",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "css/const/colors#[.{fingerprint}]?.css",
+      "RelativePath": "css/const/colors.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "inbn25uogy",
-      "Integrity": "Qg8Fe0mRIjzmxFcgeQNDSykEVEHjsRa786h9kGxUIw8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\const\\colors.css"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\css\\const\\main.css",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\css\\const\\main.css",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "css/const/main#[.{fingerprint}]?.css",
+      "RelativePath": "css/const/main.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "9cmszptmmn",
-      "Integrity": "GbdfCYNcPNBeDUYe0uOebI1E7wju0aNgdozy2h4sOdc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\const\\main.css"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\css\\signIn\\profile.css",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\css\\signIn\\profile.css",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "css/signIn/profile#[.{fingerprint}]?.css",
+      "RelativePath": "css/signIn/profile.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "oh4kpkrslh",
-      "Integrity": "vIwC3E9BJtJmH68+dpJ3WE6R9fGy+Wd9ivRerNwwCrA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\signIn\\profile.css"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\css\\signIn\\singIn.css",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\css\\signIn\\singIn.css",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "css/signIn/singIn#[.{fingerprint}]?.css",
+      "RelativePath": "css/signIn/singIn.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "s0hab6yq9q",
-      "Integrity": "rNcUBeT6KVBzSpEkD3jQnk7xvJXIgIpO9lIHfLkw/ME=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\signIn\\singIn.css"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\css\\style\\about.css",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\css\\style\\about.css",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "css/style/about#[.{fingerprint}]?.css",
+      "RelativePath": "css/style/about.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "x4im09zh0x",
-      "Integrity": "UTnlQM25ni9On9WlE5GjdNl6ZZL0nOZfw6pO/k8XGtc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\style\\about.css"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\css\\style\\articles.css",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\css\\style\\articles.css",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "css/style/articles#[.{fingerprint}]?.css",
+      "RelativePath": "css/style/articles.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "0r00h6ioot",
-      "Integrity": "NFPbkHFmKR/XadGeZ+6mgWFxkYDkPltEM+rabUdq4zE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\style\\articles.css"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\css\\style\\cart.css",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\css\\style\\cart.css",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "css/style/cart#[.{fingerprint}]?.css",
+      "RelativePath": "css/style/cart.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "bfiano49u2",
-      "Integrity": "OS3J0YW0OTGjh7lUwxb2OlZRqd0XmMcQcXdSTLxbCQ8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\style\\cart.css"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\css\\style\\catalog.css",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\css\\style\\catalog.css",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "css/style/catalog#[.{fingerprint}]?.css",
+      "RelativePath": "css/style/catalog.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "jjjhbu04qs",
-      "Integrity": "L6A40eVHq7EnZolii0joD0t/KLsnHFYHd7l3jYsgRns=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\style\\catalog.css"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\css\\style\\favorite.css",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\css\\style\\favorite.css",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "css/style/favorite#[.{fingerprint}]?.css",
+      "RelativePath": "css/style/favorite.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "o6qmz1xomo",
-      "Integrity": "8Bo3TpyB49uJs6QpQMTWpUR2hJhqEpbkK/E/GW7tYpU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\style\\favorite.css"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\css\\style\\index.css",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\css\\style\\index.css",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "css/style/index#[.{fingerprint}]?.css",
+      "RelativePath": "css/style/index.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "i8z32rtolr",
-      "Integrity": "IjMRiv5qbyMB84haFJ0rpMYjs+44S/q0Bru8rjy5Kzo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\style\\index.css"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\css\\style\\item.css",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\css\\style\\item.css",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "css/style/item#[.{fingerprint}]?.css",
+      "RelativePath": "css/style/item.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "o04mp02qk4",
-      "Integrity": "2BY1fUkn38MC5+er4CYP3SXY/guhlvySKpnHM4STAdI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\style\\item.css"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\favicon.ico",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "favicon#[.{fingerprint}]?.ico",
+      "RelativePath": "favicon.ico",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "61n19gt1b8",
-      "Integrity": "Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\js\\articles\\incrementArticles.js",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\js\\articles\\incrementArticles.js",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "js/articles/incrementArticles#[.{fingerprint}]?.js",
+      "RelativePath": "js/articles/incrementArticles.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ewirr35jgb",
-      "Integrity": "knDyxzsDKWnNKfVBdPo8PpyG21r7OPoPnfjvUbN5Fvo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\articles\\incrementArticles.js"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\js\\controllerPost\\content-signIn.js",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\js\\controllerPost\\content-signIn.js",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "js/controllerPost/content-signIn#[.{fingerprint}]?.js",
+      "RelativePath": "js/controllerPost/content-signIn.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "swmk1r6pcn",
-      "Integrity": "/D3eU2DKsGdI25TBed1KvK2aXs+GHwQ0noJ8gzjqACs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\controllerPost\\content-signIn.js"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\js\\indexJs\\slidebar.js",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\js\\indexJs\\slidebar.js",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "js/indexJs/slidebar#[.{fingerprint}]?.js",
+      "RelativePath": "js/indexJs/slidebar.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "3j5utvvfe2",
-      "Integrity": "f0BloXo37O1Sa5KF5tw1SoI5c1hH3BVTFePDT3c4ly4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\indexJs\\slidebar.js"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
+      "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "7s2n0ol71w",
-      "Integrity": "KSI/3xxCrCexCupdzQJRP1B6Iqg+2NA+X2u38cQdqq8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
+      "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ehgnz7f14e",
-      "Integrity": "zp0HUArZHsK1JMJwdk7EyaM+eDINjTdOxADt5Ij2JRs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
+      "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "5pze98is44",
-      "Integrity": "OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
+      "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "mlv21k5csn",
-      "Integrity": "hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ay5nd8zt9x",
-      "Integrity": "4jrcLBsi0Ugm8iLKdqDsAyaCDjkscYZdoGuNH/zqs4E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "9oaff4kq20",
-      "Integrity": "N11IyJpHTgDcSCb3AfX4VrBnpGQeem1NoNzzgcXVyCc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "6d0lkjaslc",
-      "Integrity": "5qqb5VxQ2t2a6Zx/neW5uppLLvaGn4nn0NdYp6g8Lyg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "l1zq2mitth",
-      "Integrity": "6e0N+WJiVKBeTitK1GKSwPi3rbdPpLtuqaiitZjeD2w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
+      "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "x0q3zqp4vz",
-      "Integrity": "geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "03hjc8e09r",
-      "Integrity": "xJbBMLGhYbXlPrrrddrSVmduyF6KEtbxEsYxw7hYZV4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "48y08845bh",
-      "Integrity": "RFWFWIIPsjB4DucR4jqwxTWw13ZmtI+s6tVR2LJmZXk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "minerals",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Project\\minerals\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shind\\OneDrive\\Документы\\minerals-b06b100190aeaf4f0ed31d1d692228bc783e602a\\wwwroot\\",
       "BasePath": "_content/minerals",
-      "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
+      "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "356vix0kms",
-      "Integrity": "16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
-    }
-  ],
-  "Endpoints": [
-    {
-      "Route": "assets/icon/cart.eas7wf9rgg.png",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\icon\\cart.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "10063"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9pZxm/e0k+Qtpg49+dZlZVuog/l6l4c2C9n3ITgiGC8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "eas7wf9rgg"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/icon/cart.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-9pZxm/e0k+Qtpg49+dZlZVuog/l6l4c2C9n3ITgiGC8="
-        }
-      ]
-    },
-    {
-      "Route": "assets/icon/cart.png",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\icon\\cart.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "10063"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9pZxm/e0k+Qtpg49+dZlZVuog/l6l4c2C9n3ITgiGC8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-9pZxm/e0k+Qtpg49+dZlZVuog/l6l4c2C9n3ITgiGC8="
-        }
-      ]
-    },
-    {
-      "Route": "assets/icon/delete.nv9wc6bwds.png",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\icon\\delete.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3559"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Aw6lczAmPXES5JfX4yDzDhbB2Sn9goaUrjLq1GdUgaE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:00:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "nv9wc6bwds"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/icon/delete.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Aw6lczAmPXES5JfX4yDzDhbB2Sn9goaUrjLq1GdUgaE="
-        }
-      ]
-    },
-    {
-      "Route": "assets/icon/delete.png",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\icon\\delete.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3559"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Aw6lczAmPXES5JfX4yDzDhbB2Sn9goaUrjLq1GdUgaE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:00:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Aw6lczAmPXES5JfX4yDzDhbB2Sn9goaUrjLq1GdUgaE="
-        }
-      ]
-    },
-    {
-      "Route": "assets/icon/like.in5m499bou.png",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\icon\\like.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "11748"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4qE1Z3nCGNCZMYrCDAAmmtU4tWCH6Gsca49riUYaU+w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "in5m499bou"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/icon/like.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-4qE1Z3nCGNCZMYrCDAAmmtU4tWCH6Gsca49riUYaU+w="
-        }
-      ]
-    },
-    {
-      "Route": "assets/icon/like.png",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\icon\\like.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "11748"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4qE1Z3nCGNCZMYrCDAAmmtU4tWCH6Gsca49riUYaU+w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-4qE1Z3nCGNCZMYrCDAAmmtU4tWCH6Gsca49riUYaU+w="
-        }
-      ]
-    },
-    {
-      "Route": "assets/icon/search.1uxkqaw2oc.png",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\icon\\search.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8471"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SSqa2SD7H/s2PhXIk+mweXWiOI8/bDLsWM1WxueioAE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1uxkqaw2oc"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/icon/search.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-SSqa2SD7H/s2PhXIk+mweXWiOI8/bDLsWM1WxueioAE="
-        }
-      ]
-    },
-    {
-      "Route": "assets/icon/search.png",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\icon\\search.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8471"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SSqa2SD7H/s2PhXIk+mweXWiOI8/bDLsWM1WxueioAE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-SSqa2SD7H/s2PhXIk+mweXWiOI8/bDLsWM1WxueioAE="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/Agat.f7oe2ryn4q.jpg",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Agat.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "35069"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9R9feWflaUuhfkzHugLQzOs3bWsQ0ePWV7qdByt8+jA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "f7oe2ryn4q"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/img/Agat.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-9R9feWflaUuhfkzHugLQzOs3bWsQ0ePWV7qdByt8+jA="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/Agat.jpg",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Agat.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "35069"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9R9feWflaUuhfkzHugLQzOs3bWsQ0ePWV7qdByt8+jA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-9R9feWflaUuhfkzHugLQzOs3bWsQ0ePWV7qdByt8+jA="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/Ametist.bf7bjbt6od.jpg",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Ametist.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "106912"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qbal5WPoRfbzTsn8Y8KIU4UGYhzq2jOKj3xy/zhCtys=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "bf7bjbt6od"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/img/Ametist.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-qbal5WPoRfbzTsn8Y8KIU4UGYhzq2jOKj3xy/zhCtys="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/Ametist.jpg",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Ametist.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "106912"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qbal5WPoRfbzTsn8Y8KIU4UGYhzq2jOKj3xy/zhCtys=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-qbal5WPoRfbzTsn8Y8KIU4UGYhzq2jOKj3xy/zhCtys="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/ametist_slide.jpg",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\ametist_slide.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "209468"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4l2+AXOqF2ydJAmSPVQjszPrOwGZ/IpLOyZ5CCK65Dg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-4l2+AXOqF2ydJAmSPVQjszPrOwGZ/IpLOyZ5CCK65Dg="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/ametist_slide.yf233syud8.jpg",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\ametist_slide.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "209468"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4l2+AXOqF2ydJAmSPVQjszPrOwGZ/IpLOyZ5CCK65Dg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "yf233syud8"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/img/ametist_slide.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-4l2+AXOqF2ydJAmSPVQjszPrOwGZ/IpLOyZ5CCK65Dg="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/Aqua.jpg",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Aqua.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "34924"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"WliKcS9gID/l68NprBijfqqOSmj2gDrOUlFxkqGQxP0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-WliKcS9gID/l68NprBijfqqOSmj2gDrOUlFxkqGQxP0="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/Aqua.qbgkgisj1e.jpg",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Aqua.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "34924"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"WliKcS9gID/l68NprBijfqqOSmj2gDrOUlFxkqGQxP0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "qbgkgisj1e"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/img/Aqua.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-WliKcS9gID/l68NprBijfqqOSmj2gDrOUlFxkqGQxP0="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/aquamarine_slide.gkbdi282rp.png",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\aquamarine_slide.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "35388"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"MOqPB26BUoCIBL5I4oBbKFKB6h/JrVmsBr3WKrTlax8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "gkbdi282rp"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/img/aquamarine_slide.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-MOqPB26BUoCIBL5I4oBbKFKB6h/JrVmsBr3WKrTlax8="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/aquamarine_slide.png",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\aquamarine_slide.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "35388"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"MOqPB26BUoCIBL5I4oBbKFKB6h/JrVmsBr3WKrTlax8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-MOqPB26BUoCIBL5I4oBbKFKB6h/JrVmsBr3WKrTlax8="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/Emerald.jpg",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Emerald.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "60930"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Ov3n/FEP94ueVSGLQRgNJ/f8tsjPvoCS7k/r20GPWoM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Ov3n/FEP94ueVSGLQRgNJ/f8tsjPvoCS7k/r20GPWoM="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/Emerald.ylndm15ygo.jpg",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Emerald.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "60930"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Ov3n/FEP94ueVSGLQRgNJ/f8tsjPvoCS7k/r20GPWoM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ylndm15ygo"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/img/Emerald.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Ov3n/FEP94ueVSGLQRgNJ/f8tsjPvoCS7k/r20GPWoM="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/emerald_slide.eqraftfznw.png",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\emerald_slide.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "36848"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5l04tLB0vCt78bv+uNoxFVe7yiG5Sy6DJ/ZRIGYtH9U=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "eqraftfznw"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/img/emerald_slide.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-5l04tLB0vCt78bv+uNoxFVe7yiG5Sy6DJ/ZRIGYtH9U="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/emerald_slide.png",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\emerald_slide.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "36848"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5l04tLB0vCt78bv+uNoxFVe7yiG5Sy6DJ/ZRIGYtH9U=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-5l04tLB0vCt78bv+uNoxFVe7yiG5Sy6DJ/ZRIGYtH9U="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/Fluorit.jpg",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Fluorit.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "91364"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"n+uALHAUgPIOApmihjNbpixArnDzTdEVBL9gQ427pVc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-n+uALHAUgPIOApmihjNbpixArnDzTdEVBL9gQ427pVc="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/Fluorit.n2wh7y0kas.jpg",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Fluorit.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "91364"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"n+uALHAUgPIOApmihjNbpixArnDzTdEVBL9gQ427pVc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "n2wh7y0kas"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/img/Fluorit.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-n+uALHAUgPIOApmihjNbpixArnDzTdEVBL9gQ427pVc="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/Lazurit.jpg",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Lazurit.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "93108"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"f0T5f/E48edAy5gOQa2klt+XH0a5ko1nOhg36O1rcOo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-f0T5f/E48edAy5gOQa2klt+XH0a5ko1nOhg36O1rcOo="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/Lazurit.rhgwha5np6.jpg",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Lazurit.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "93108"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"f0T5f/E48edAy5gOQa2klt+XH0a5ko1nOhg36O1rcOo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "rhgwha5np6"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/img/Lazurit.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-f0T5f/E48edAy5gOQa2klt+XH0a5ko1nOhg36O1rcOo="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/Luna.as58uf2vof.jpg",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Luna.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "241443"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Simi7XWSCFcaAb8CcV81cXVRuGMbNbYWhQCzkRtk/K0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "as58uf2vof"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/img/Luna.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Simi7XWSCFcaAb8CcV81cXVRuGMbNbYWhQCzkRtk/K0="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/Luna.jpg",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Luna.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "241443"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Simi7XWSCFcaAb8CcV81cXVRuGMbNbYWhQCzkRtk/K0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Simi7XWSCFcaAb8CcV81cXVRuGMbNbYWhQCzkRtk/K0="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/Obsidian.9yd787ks6w.jpg",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Obsidian.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "26380"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"n/lgT5l9suihm7IhT5c0wEuj3G5+8ZKYvb8Z5SSjV9k=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "9yd787ks6w"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/img/Obsidian.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-n/lgT5l9suihm7IhT5c0wEuj3G5+8ZKYvb8Z5SSjV9k="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/Obsidian.jpg",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Obsidian.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "26380"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"n/lgT5l9suihm7IhT5c0wEuj3G5+8ZKYvb8Z5SSjV9k=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-n/lgT5l9suihm7IhT5c0wEuj3G5+8ZKYvb8Z5SSjV9k="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/Quartz.jpg",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Quartz.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "76295"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PR8j2onsTBP2bAcWZvttCNjUfBIvKAPrPK5Yx6vD61g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-PR8j2onsTBP2bAcWZvttCNjUfBIvKAPrPK5Yx6vD61g="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/Quartz.vdhjaahtfi.jpg",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Quartz.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "76295"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PR8j2onsTBP2bAcWZvttCNjUfBIvKAPrPK5Yx6vD61g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "vdhjaahtfi"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/img/Quartz.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-PR8j2onsTBP2bAcWZvttCNjUfBIvKAPrPK5Yx6vD61g="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/rubines_slide.fugxjj5hmd.png",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\rubines_slide.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "40790"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"eX3/s64qZCWWM7pX2JDJqS+WnFTZM7D9cv8/dMvIqKA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "fugxjj5hmd"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/img/rubines_slide.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-eX3/s64qZCWWM7pX2JDJqS+WnFTZM7D9cv8/dMvIqKA="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/rubines_slide.png",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\rubines_slide.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "40790"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"eX3/s64qZCWWM7pX2JDJqS+WnFTZM7D9cv8/dMvIqKA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-eX3/s64qZCWWM7pX2JDJqS+WnFTZM7D9cv8/dMvIqKA="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/Rybin.4b4qyahpbm.jpg",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Rybin.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "178021"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"sE303WsQeIvo5CzFlvfOgRFiHFBv8wanOL1rlBtCpbI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "4b4qyahpbm"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/img/Rybin.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-sE303WsQeIvo5CzFlvfOgRFiHFBv8wanOL1rlBtCpbI="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/Rybin.jpg",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Rybin.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "178021"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"sE303WsQeIvo5CzFlvfOgRFiHFBv8wanOL1rlBtCpbI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-sE303WsQeIvo5CzFlvfOgRFiHFBv8wanOL1rlBtCpbI="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/sapfhire_slide.jua2m4yalw.png",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\sapfhire_slide.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "42232"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"lVY8+x7A7Iy/sDFYsOnF9PYtDyK+Vjwu83kqNbuxbiw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "jua2m4yalw"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/img/sapfhire_slide.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-lVY8+x7A7Iy/sDFYsOnF9PYtDyK+Vjwu83kqNbuxbiw="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/sapfhire_slide.png",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\sapfhire_slide.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "42232"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"lVY8+x7A7Iy/sDFYsOnF9PYtDyK+Vjwu83kqNbuxbiw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-lVY8+x7A7Iy/sDFYsOnF9PYtDyK+Vjwu83kqNbuxbiw="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/Sapphire.jpg",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Sapphire.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "44314"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NO2gUD91h0E5oiVyFRva9B3IrKzuAtKe+mDbc7ufJZg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-NO2gUD91h0E5oiVyFRva9B3IrKzuAtKe+mDbc7ufJZg="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/Sapphire.ovke07dh2p.jpg",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Sapphire.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "44314"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NO2gUD91h0E5oiVyFRva9B3IrKzuAtKe+mDbc7ufJZg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ovke07dh2p"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/img/Sapphire.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-NO2gUD91h0E5oiVyFRva9B3IrKzuAtKe+mDbc7ufJZg="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/slide1.jpg",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\slide1.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "304660"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"MH2216P8F5MHH944umQ+atR6PggGKo0TFMxL8Df3PDM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-MH2216P8F5MHH944umQ+atR6PggGKo0TFMxL8Df3PDM="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/slide1.sp94ra5fcq.jpg",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\slide1.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "304660"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"MH2216P8F5MHH944umQ+atR6PggGKo0TFMxL8Df3PDM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "sp94ra5fcq"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/img/slide1.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-MH2216P8F5MHH944umQ+atR6PggGKo0TFMxL8Df3PDM="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/slide2.1nci0ffs9g.jpg",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\slide2.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "218240"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fZzmMX9DqRV6PzpeZSwiYFoT+twH1yHImzvXuU+ukzg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1nci0ffs9g"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/img/slide2.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-fZzmMX9DqRV6PzpeZSwiYFoT+twH1yHImzvXuU+ukzg="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/slide2.jpg",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\slide2.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "218240"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fZzmMX9DqRV6PzpeZSwiYFoT+twH1yHImzvXuU+ukzg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-fZzmMX9DqRV6PzpeZSwiYFoT+twH1yHImzvXuU+ukzg="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/slide3.jpg",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\slide3.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "67696"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"X7FUfHkwPnQtdBFHQln6wLZ2ss+XgYCTHU5VNdfL3b0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-X7FUfHkwPnQtdBFHQln6wLZ2ss+XgYCTHU5VNdfL3b0="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/slide3.zzdy2xxbki.jpg",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\slide3.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "67696"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"X7FUfHkwPnQtdBFHQln6wLZ2ss+XgYCTHU5VNdfL3b0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zzdy2xxbki"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/img/slide3.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-X7FUfHkwPnQtdBFHQln6wLZ2ss+XgYCTHU5VNdfL3b0="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/slide4.3q8v2omgn1.jpg",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\slide4.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "179588"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"FcCsn+Q6Y1e/jdPUII/CGxIIq4XAcFsmd9EadQHVNHk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3q8v2omgn1"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/img/slide4.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-FcCsn+Q6Y1e/jdPUII/CGxIIq4XAcFsmd9EadQHVNHk="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/slide4.jpg",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\slide4.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "179588"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"FcCsn+Q6Y1e/jdPUII/CGxIIq4XAcFsmd9EadQHVNHk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-FcCsn+Q6Y1e/jdPUII/CGxIIq4XAcFsmd9EadQHVNHk="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/Yashma.jpg",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Yashma.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "236744"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"GpJdyaLwnYZtEh1EDlq5qYx8VVMrf3IoOWlzwx6adv4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-GpJdyaLwnYZtEh1EDlq5qYx8VVMrf3IoOWlzwx6adv4="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/Yashma.qgsc3tstwk.jpg",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\img\\Yashma.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "236744"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"GpJdyaLwnYZtEh1EDlq5qYx8VVMrf3IoOWlzwx6adv4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "qgsc3tstwk"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/img/Yashma.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-GpJdyaLwnYZtEh1EDlq5qYx8VVMrf3IoOWlzwx6adv4="
-        }
-      ]
-    },
-    {
-      "Route": "assets/logo/mineral.hiwb5z0wql.png",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\logo\\mineral.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9309"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"p/W8Gbhqf0zMh/+jorwJ1WngXcYP5D9o5zU1/8inJiQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "hiwb5z0wql"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/logo/mineral.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-p/W8Gbhqf0zMh/+jorwJ1WngXcYP5D9o5zU1/8inJiQ="
-        }
-      ]
-    },
-    {
-      "Route": "assets/logo/mineral.png",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\assets\\logo\\mineral.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9309"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"p/W8Gbhqf0zMh/+jorwJ1WngXcYP5D9o5zU1/8inJiQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-p/W8Gbhqf0zMh/+jorwJ1WngXcYP5D9o5zU1/8inJiQ="
-        }
-      ]
-    },
-    {
-      "Route": "css/animation/controllerArticles.9z90s6hfsr.css",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\animation\\controllerArticles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "129"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hXaLEEnEvPQY/opwm0GnVbeRcLU5195CWg76R/e7vGU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 14:47:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "9z90s6hfsr"
-        },
-        {
-          "Name": "label",
-          "Value": "css/animation/controllerArticles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-hXaLEEnEvPQY/opwm0GnVbeRcLU5195CWg76R/e7vGU="
-        }
-      ]
-    },
-    {
-      "Route": "css/animation/controllerArticles.css",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\animation\\controllerArticles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "129"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hXaLEEnEvPQY/opwm0GnVbeRcLU5195CWg76R/e7vGU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 14:47:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-hXaLEEnEvPQY/opwm0GnVbeRcLU5195CWg76R/e7vGU="
-        }
-      ]
-    },
-    {
-      "Route": "css/animation/slideBar.css",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\animation\\slideBar.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "818"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"WdfA1laagLBddbeOMRglZyXqdNZQIJ6R8OuvgsN9KbA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-WdfA1laagLBddbeOMRglZyXqdNZQIJ6R8OuvgsN9KbA="
-        }
-      ]
-    },
-    {
-      "Route": "css/animation/slideBar.lt3sl0q8hu.css",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\animation\\slideBar.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "818"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"WdfA1laagLBddbeOMRglZyXqdNZQIJ6R8OuvgsN9KbA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "lt3sl0q8hu"
-        },
-        {
-          "Name": "label",
-          "Value": "css/animation/slideBar.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-WdfA1laagLBddbeOMRglZyXqdNZQIJ6R8OuvgsN9KbA="
-        }
-      ]
-    },
-    {
-      "Route": "css/const/colors.css",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\const\\colors.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "447"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Qg8Fe0mRIjzmxFcgeQNDSykEVEHjsRa786h9kGxUIw8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Qg8Fe0mRIjzmxFcgeQNDSykEVEHjsRa786h9kGxUIw8="
-        }
-      ]
-    },
-    {
-      "Route": "css/const/colors.inbn25uogy.css",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\const\\colors.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "447"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Qg8Fe0mRIjzmxFcgeQNDSykEVEHjsRa786h9kGxUIw8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "inbn25uogy"
-        },
-        {
-          "Name": "label",
-          "Value": "css/const/colors.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Qg8Fe0mRIjzmxFcgeQNDSykEVEHjsRa786h9kGxUIw8="
-        }
-      ]
-    },
-    {
-      "Route": "css/const/main.9cmszptmmn.css",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\const\\main.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3915"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"GbdfCYNcPNBeDUYe0uOebI1E7wju0aNgdozy2h4sOdc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:59:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "9cmszptmmn"
-        },
-        {
-          "Name": "label",
-          "Value": "css/const/main.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-GbdfCYNcPNBeDUYe0uOebI1E7wju0aNgdozy2h4sOdc="
-        }
-      ]
-    },
-    {
-      "Route": "css/const/main.css",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\const\\main.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3915"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"GbdfCYNcPNBeDUYe0uOebI1E7wju0aNgdozy2h4sOdc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:59:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-GbdfCYNcPNBeDUYe0uOebI1E7wju0aNgdozy2h4sOdc="
-        }
-      ]
-    },
-    {
-      "Route": "css/signIn/profile.css",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\signIn\\profile.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "88"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"vIwC3E9BJtJmH68+dpJ3WE6R9fGy+Wd9ivRerNwwCrA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-vIwC3E9BJtJmH68+dpJ3WE6R9fGy+Wd9ivRerNwwCrA="
-        }
-      ]
-    },
-    {
-      "Route": "css/signIn/profile.oh4kpkrslh.css",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\signIn\\profile.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "88"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"vIwC3E9BJtJmH68+dpJ3WE6R9fGy+Wd9ivRerNwwCrA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "oh4kpkrslh"
-        },
-        {
-          "Name": "label",
-          "Value": "css/signIn/profile.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-vIwC3E9BJtJmH68+dpJ3WE6R9fGy+Wd9ivRerNwwCrA="
-        }
-      ]
-    },
-    {
-      "Route": "css/signIn/singIn.css",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\signIn\\singIn.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1156"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rNcUBeT6KVBzSpEkD3jQnk7xvJXIgIpO9lIHfLkw/ME=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-rNcUBeT6KVBzSpEkD3jQnk7xvJXIgIpO9lIHfLkw/ME="
-        }
-      ]
-    },
-    {
-      "Route": "css/signIn/singIn.s0hab6yq9q.css",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\signIn\\singIn.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1156"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rNcUBeT6KVBzSpEkD3jQnk7xvJXIgIpO9lIHfLkw/ME=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "s0hab6yq9q"
-        },
-        {
-          "Name": "label",
-          "Value": "css/signIn/singIn.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-rNcUBeT6KVBzSpEkD3jQnk7xvJXIgIpO9lIHfLkw/ME="
-        }
-      ]
-    },
-    {
-      "Route": "css/style/about.css",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\style\\about.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "527"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"UTnlQM25ni9On9WlE5GjdNl6ZZL0nOZfw6pO/k8XGtc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-UTnlQM25ni9On9WlE5GjdNl6ZZL0nOZfw6pO/k8XGtc="
-        }
-      ]
-    },
-    {
-      "Route": "css/style/about.x4im09zh0x.css",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\style\\about.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "527"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"UTnlQM25ni9On9WlE5GjdNl6ZZL0nOZfw6pO/k8XGtc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "x4im09zh0x"
-        },
-        {
-          "Name": "label",
-          "Value": "css/style/about.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-UTnlQM25ni9On9WlE5GjdNl6ZZL0nOZfw6pO/k8XGtc="
-        }
-      ]
-    },
-    {
-      "Route": "css/style/articles.0r00h6ioot.css",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\style\\articles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1816"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NFPbkHFmKR/XadGeZ+6mgWFxkYDkPltEM+rabUdq4zE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 14:24:16 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "0r00h6ioot"
-        },
-        {
-          "Name": "label",
-          "Value": "css/style/articles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-NFPbkHFmKR/XadGeZ+6mgWFxkYDkPltEM+rabUdq4zE="
-        }
-      ]
-    },
-    {
-      "Route": "css/style/articles.css",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\style\\articles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1816"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NFPbkHFmKR/XadGeZ+6mgWFxkYDkPltEM+rabUdq4zE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 14:24:16 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-NFPbkHFmKR/XadGeZ+6mgWFxkYDkPltEM+rabUdq4zE="
-        }
-      ]
-    },
-    {
-      "Route": "css/style/cart.bfiano49u2.css",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\style\\cart.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2131"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"OS3J0YW0OTGjh7lUwxb2OlZRqd0XmMcQcXdSTLxbCQ8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:30:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "bfiano49u2"
-        },
-        {
-          "Name": "label",
-          "Value": "css/style/cart.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-OS3J0YW0OTGjh7lUwxb2OlZRqd0XmMcQcXdSTLxbCQ8="
-        }
-      ]
-    },
-    {
-      "Route": "css/style/cart.css",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\style\\cart.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2131"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"OS3J0YW0OTGjh7lUwxb2OlZRqd0XmMcQcXdSTLxbCQ8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:30:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-OS3J0YW0OTGjh7lUwxb2OlZRqd0XmMcQcXdSTLxbCQ8="
-        }
-      ]
-    },
-    {
-      "Route": "css/style/catalog.css",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\style\\catalog.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1993"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"L6A40eVHq7EnZolii0joD0t/KLsnHFYHd7l3jYsgRns=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-L6A40eVHq7EnZolii0joD0t/KLsnHFYHd7l3jYsgRns="
-        }
-      ]
-    },
-    {
-      "Route": "css/style/catalog.jjjhbu04qs.css",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\style\\catalog.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1993"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"L6A40eVHq7EnZolii0joD0t/KLsnHFYHd7l3jYsgRns=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "jjjhbu04qs"
-        },
-        {
-          "Name": "label",
-          "Value": "css/style/catalog.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-L6A40eVHq7EnZolii0joD0t/KLsnHFYHd7l3jYsgRns="
-        }
-      ]
-    },
-    {
-      "Route": "css/style/favorite.css",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\style\\favorite.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8Bo3TpyB49uJs6QpQMTWpUR2hJhqEpbkK/E/GW7tYpU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-8Bo3TpyB49uJs6QpQMTWpUR2hJhqEpbkK/E/GW7tYpU="
-        }
-      ]
-    },
-    {
-      "Route": "css/style/favorite.o6qmz1xomo.css",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\style\\favorite.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8Bo3TpyB49uJs6QpQMTWpUR2hJhqEpbkK/E/GW7tYpU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "o6qmz1xomo"
-        },
-        {
-          "Name": "label",
-          "Value": "css/style/favorite.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-8Bo3TpyB49uJs6QpQMTWpUR2hJhqEpbkK/E/GW7tYpU="
-        }
-      ]
-    },
-    {
-      "Route": "css/style/index.css",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\style\\index.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1410"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"IjMRiv5qbyMB84haFJ0rpMYjs+44S/q0Bru8rjy5Kzo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-IjMRiv5qbyMB84haFJ0rpMYjs+44S/q0Bru8rjy5Kzo="
-        }
-      ]
-    },
-    {
-      "Route": "css/style/index.i8z32rtolr.css",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\style\\index.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1410"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"IjMRiv5qbyMB84haFJ0rpMYjs+44S/q0Bru8rjy5Kzo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "i8z32rtolr"
-        },
-        {
-          "Name": "label",
-          "Value": "css/style/index.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-IjMRiv5qbyMB84haFJ0rpMYjs+44S/q0Bru8rjy5Kzo="
-        }
-      ]
-    },
-    {
-      "Route": "css/style/item.css",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\style\\item.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3120"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2BY1fUkn38MC5+er4CYP3SXY/guhlvySKpnHM4STAdI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-2BY1fUkn38MC5+er4CYP3SXY/guhlvySKpnHM4STAdI="
-        }
-      ]
-    },
-    {
-      "Route": "css/style/item.o04mp02qk4.css",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\css\\style\\item.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3120"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2BY1fUkn38MC5+er4CYP3SXY/guhlvySKpnHM4STAdI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "o04mp02qk4"
-        },
-        {
-          "Name": "label",
-          "Value": "css/style/item.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-2BY1fUkn38MC5+er4CYP3SXY/guhlvySKpnHM4STAdI="
-        }
-      ]
-    },
-    {
-      "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\favicon.ico",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5430"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/x-icon"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "61n19gt1b8"
-        },
-        {
-          "Name": "label",
-          "Value": "favicon.ico"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
-        }
-      ]
-    },
-    {
-      "Route": "favicon.ico",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\favicon.ico",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5430"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/x-icon"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
-        }
-      ]
-    },
-    {
-      "Route": "js/articles/incrementArticles.ewirr35jgb.js",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\js\\articles\\incrementArticles.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1699"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"knDyxzsDKWnNKfVBdPo8PpyG21r7OPoPnfjvUbN5Fvo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 14:53:33 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ewirr35jgb"
-        },
-        {
-          "Name": "label",
-          "Value": "js/articles/incrementArticles.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-knDyxzsDKWnNKfVBdPo8PpyG21r7OPoPnfjvUbN5Fvo="
-        }
-      ]
-    },
-    {
-      "Route": "js/articles/incrementArticles.js",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\js\\articles\\incrementArticles.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1699"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"knDyxzsDKWnNKfVBdPo8PpyG21r7OPoPnfjvUbN5Fvo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 14:53:33 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-knDyxzsDKWnNKfVBdPo8PpyG21r7OPoPnfjvUbN5Fvo="
-        }
-      ]
-    },
-    {
-      "Route": "js/controllerPost/content-signIn.js",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\js\\controllerPost\\content-signIn.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "326"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/D3eU2DKsGdI25TBed1KvK2aXs+GHwQ0noJ8gzjqACs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-/D3eU2DKsGdI25TBed1KvK2aXs+GHwQ0noJ8gzjqACs="
-        }
-      ]
-    },
-    {
-      "Route": "js/controllerPost/content-signIn.swmk1r6pcn.js",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\js\\controllerPost\\content-signIn.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "326"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/D3eU2DKsGdI25TBed1KvK2aXs+GHwQ0noJ8gzjqACs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "swmk1r6pcn"
-        },
-        {
-          "Name": "label",
-          "Value": "js/controllerPost/content-signIn.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-/D3eU2DKsGdI25TBed1KvK2aXs+GHwQ0noJ8gzjqACs="
-        }
-      ]
-    },
-    {
-      "Route": "js/indexJs/slidebar.3j5utvvfe2.js",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\js\\indexJs\\slidebar.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "897"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"f0BloXo37O1Sa5KF5tw1SoI5c1hH3BVTFePDT3c4ly4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3j5utvvfe2"
-        },
-        {
-          "Name": "label",
-          "Value": "js/indexJs/slidebar.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-f0BloXo37O1Sa5KF5tw1SoI5c1hH3BVTFePDT3c4ly4="
-        }
-      ]
-    },
-    {
-      "Route": "js/indexJs/slidebar.js",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\js\\indexJs\\slidebar.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "897"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"f0BloXo37O1Sa5KF5tw1SoI5c1hH3BVTFePDT3c4ly4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-f0BloXo37O1Sa5KF5tw1SoI5c1hH3BVTFePDT3c4ly4="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/dist/jquery.7s2n0ol71w.js",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "299461"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KSI/3xxCrCexCupdzQJRP1B6Iqg+2NA+X2u38cQdqq8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "7s2n0ol71w"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery/dist/jquery.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-KSI/3xxCrCexCupdzQJRP1B6Iqg+2NA+X2u38cQdqq8="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "299461"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KSI/3xxCrCexCupdzQJRP1B6Iqg+2NA+X2u38cQdqq8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-KSI/3xxCrCexCupdzQJRP1B6Iqg+2NA+X2u38cQdqq8="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "137972"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5pze98is44"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery/dist/jquery.min.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/dist/jquery.min.ehgnz7f14e.js",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "89503"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"zp0HUArZHsK1JMJwdk7EyaM+eDINjTdOxADt5Ij2JRs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ehgnz7f14e"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery/dist/jquery.min.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-zp0HUArZHsK1JMJwdk7EyaM+eDINjTdOxADt5Ij2JRs="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "89503"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"zp0HUArZHsK1JMJwdk7EyaM+eDINjTdOxADt5Ij2JRs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-zp0HUArZHsK1JMJwdk7EyaM+eDINjTdOxADt5Ij2JRs="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "137972"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1117"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "mlv21k5csn"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery/LICENSE.txt"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1117"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "52977"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4jrcLBsi0Ugm8iLKdqDsAyaCDjkscYZdoGuNH/zqs4E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ay5nd8zt9x"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery-validation/dist/additional-methods.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-4jrcLBsi0Ugm8iLKdqDsAyaCDjkscYZdoGuNH/zqs4E="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "52977"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4jrcLBsi0Ugm8iLKdqDsAyaCDjkscYZdoGuNH/zqs4E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-4jrcLBsi0Ugm8iLKdqDsAyaCDjkscYZdoGuNH/zqs4E="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "22177"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"N11IyJpHTgDcSCb3AfX4VrBnpGQeem1NoNzzgcXVyCc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "9oaff4kq20"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery-validation/dist/additional-methods.min.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-N11IyJpHTgDcSCb3AfX4VrBnpGQeem1NoNzzgcXVyCc="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "22177"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"N11IyJpHTgDcSCb3AfX4VrBnpGQeem1NoNzzgcXVyCc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-N11IyJpHTgDcSCb3AfX4VrBnpGQeem1NoNzzgcXVyCc="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation/dist/jquery.validate.6d0lkjaslc.js",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "52831"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5qqb5VxQ2t2a6Zx/neW5uppLLvaGn4nn0NdYp6g8Lyg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "6d0lkjaslc"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery-validation/dist/jquery.validate.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-5qqb5VxQ2t2a6Zx/neW5uppLLvaGn4nn0NdYp6g8Lyg="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "52831"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5qqb5VxQ2t2a6Zx/neW5uppLLvaGn4nn0NdYp6g8Lyg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-5qqb5VxQ2t2a6Zx/neW5uppLLvaGn4nn0NdYp6g8Lyg="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "24604"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6e0N+WJiVKBeTitK1GKSwPi3rbdPpLtuqaiitZjeD2w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-6e0N+WJiVKBeTitK1GKSwPi3rbdPpLtuqaiitZjeD2w="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation/dist/jquery.validate.min.l1zq2mitth.js",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "24604"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6e0N+WJiVKBeTitK1GKSwPi3rbdPpLtuqaiitZjeD2w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "l1zq2mitth"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery-validation/dist/jquery.validate.min.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-6e0N+WJiVKBeTitK1GKSwPi3rbdPpLtuqaiitZjeD2w="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1117"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/markdown"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1117"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/markdown"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "x0q3zqp4vz"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery-validation/LICENSE.md"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.03hjc8e09r.js",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "19820"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xJbBMLGhYbXlPrrrddrSVmduyF6KEtbxEsYxw7hYZV4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "03hjc8e09r"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-xJbBMLGhYbXlPrrrddrSVmduyF6KEtbxEsYxw7hYZV4="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "19820"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xJbBMLGhYbXlPrrrddrSVmduyF6KEtbxEsYxw7hYZV4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-xJbBMLGhYbXlPrrrddrSVmduyF6KEtbxEsYxw7hYZV4="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.48y08845bh.js",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5831"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RFWFWIIPsjB4DucR4jqwxTWw13ZmtI+s6tVR2LJmZXk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "48y08845bh"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-RFWFWIIPsjB4DucR4jqwxTWw13ZmtI+s6tVR2LJmZXk="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5831"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RFWFWIIPsjB4DucR4jqwxTWw13ZmtI+s6tVR2LJmZXk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-RFWFWIIPsjB4DucR4jqwxTWw13ZmtI+s6tVR2LJmZXk="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1139"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "356vix0kms"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery-validation-unobtrusive/LICENSE.txt"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "E:\\Project\\minerals\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1139"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:09:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
-        }
-      ]
     }
   ]
 }

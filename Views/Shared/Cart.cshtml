@@ -1,0 +1,90 @@
+﻿@model IEnumerable<CartItem>
+@{
+    ViewBag.Title = "Корзина";
+}
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/css/style/main.css" />
+    <link rel="stylesheet" href="~/css/style/cart.css" />
+</head>
+<body>
+    <section class="container">
+        <div class="pre-table">
+            <div class="pre-table-wrapper">
+                @foreach (var cartItem in Model)
+
+                {
+                    <div class="item-wrapper">
+                        <div class="item-image">
+                            <img src="@cartItem.Item.ImageUrl" alt="@cartItem.Item.Name" />
+                        </div>
+                        <div class="item-description">
+                            <strong>@cartItem.Item.Name</strong>
+                            <div class="description-wrapper">
+                                <p class="item-color">Цвет: @cartItem.Item.Color</p>
+                                <p class="item-hardness">Твердость: @cartItem.Item.Hardness по шкале Мооса</p>
+                                <p class="item-shine">@cartItem.Item.Shine</p>
+                            </div>
+                        </div>
+                        <div class="item-quantity">
+                            <!-- Форма для обновления количества -->
+                            <form asp-action="Update" method="post">
+                                <input type="hidden" name="cartItemId" value="@cartItem.Id" />
+                                <input class="input-quantity" type="number" name="quantity" value="@cartItem.Quantity" min="1" onchange="this.form.submit()" />
+                            </form>
+                        </div>
+                        <div class="item-price">
+                            <strong>@(cartItem.Item.Price * cartItem.Quantity) р</strong>
+                        </div>
+                        <div class="item-delete">
+                            <!-- Форма для удаления товара -->
+                            <form asp-action="Remove" method="post">
+                                <input type="hidden" name="cartItemId" value="@cartItem.Id" />
+                                <button type="submit" class="delete-button">Удалить</button>
+                            </form>
+                        </div>
+                    </div>
+                }
+            </div>
+            <div class="total-wrapper">
+                <div class="button">
+                    <span>Итого: <strong>@ViewBag.Total р</strong></span>
+                    <button class="cent">Оформить заказ</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- AJAX‑логика для обновления корзины без перезагрузки -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).on('change', '.input-quantity', function () {
+            var form = $(this).closest('form');
+            $.ajax({
+                url: form.attr('action'),
+                type: form.attr('method'),
+                data: form.serialize(),
+                success: function () {
+                    location.reload();
+                }
+            });
+        });
+
+        $(document).on('click', '.delete-button', function (e) {
+            e.preventDefault();
+            var form = $(this).closest('form');
+            $.ajax({
+                url: form.attr('action'),
+                type: form.attr('method'),
+                data: form.serialize(),
+                success: function () {
+                    location.reload();
+                }
+            });
+        });
+    </script>
+</body>
+</html>

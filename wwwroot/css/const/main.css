@@ -1,4 +1,4 @@
-﻿@import url(colors.css);
+﻿@import url(./colors.css);
 
 * {
   margin: 0;
@@ -157,7 +157,7 @@ header {
 
         & button {
           padding: 5px;
-          display: flex;
+          display: flex !important;
           justify-content: center;
           align-items: center;
 

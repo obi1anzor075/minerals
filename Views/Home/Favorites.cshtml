@@ -1,12 +1,86 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="~/css/style/index.css" />
-    <link rel="stylesheet" href="~/css/animation/slideBar.css">
-</head>
-<body>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="~/css/style/index.css" />
+		<link rel="stylesheet" href="~/css/animation/slideBar.css" />
+		<link rel="stylesheet" href="~/css/style/favorite.css" />
+	</head>
+	<body>
+		<div class="favorites-page">
+			<!-- Боковая колонка с фильтрами -->
+			<aside class="sidebar">
+				<h2>Избранное</h2>
+			</aside>
 
-</body>
+			<!-- Основная область с карточками -->
+			<main class="card-list">
+				<!-- Карточка 1: Аквамарин -->
+				<div class="card">
+					<div class="card-header">
+						<button class="heart"></button>
+					</div>
+					<img src="~/assets/img/aqua.jpg" alt="Аквамарин" class="card-img" />
+					<p>Аквамарин</p>
+					<div class="price">
+						<span class="new-price">5000р</span>
+					</div>
+					<button class="cart-btn">В корзину</button>
+				</div>
+
+				<!-- Карточка 2: Изумруд -->
+				<div class="card">
+					<div class="card-header">
+						<button class="heart"></button>
+					</div>
+					<img src="~/assets/img/emerald.jpg" alt="Изумруд" class="card-img" />
+					<p>Изумруд</p>
+					<div class="price">
+						<span class="new-price">4000р</span>
+					</div>
+					<button class="cart-btn">В корзину</button>
+				</div>
+
+				<!-- Карточка 3: Кварц -->
+				<div class="card">
+					<div class="card-header">
+						<button class="heart"></button>
+					</div>
+					<img src="~/assets/img/quartz.jpg" alt="Кварц" class="card-img" />
+					<p>Кварц</p>
+					<div class="price">
+						<span class="new-price">2500р</span>
+					</div>
+					<button class="cart-btn">В корзину</button>
+				</div>
+
+				<!-- Карточка 4: Яшма -->
+				<div class="card">
+					<div class="card-header">
+						<button class="heart"></button>
+					</div>
+					<img src="~/assets/img/yashma.jpg" alt="Яшма" class="card-img" />
+					<p>Яшма</p>
+					<div class="price">
+						<span class="new-price">3500р</span>
+					</div>
+					<button class="cart-btn">В корзину</button>
+				</div>
+
+				<!-- Карточка 5: Рубин -->
+				<div class="card">
+					<div class="card-header">
+						<button class="heart"></button>
+					</div>
+					<img src="~/assets/img/rybin.jpg" alt="Рубин" class="card-img" />
+					<p>Рубин</p>
+					<div class="price">
+						<span class="new-price">7000р</span>
+					</div>
+					<button class="cart-btn">В корзину</button>
+				</div>
+			</main>
+		</div>
+	</body>
 </html>
